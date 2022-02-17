@@ -1,0 +1,26 @@
+﻿@model SickNote
+
+<body>
+    <div id="content">
+      <section id="mainColumn">
+        <h2>Din sjukanmälan</h2>
+        <p class="label">
+          Vänligen läs igenom din sjukanmälan och se att allt är okej.<br />
+          Om något är fel, gå tillbaka och ändra. Annars välj Bekräfta.
+        </p>
+        <p><span class="label">Läkarintyg? (Sant/falskt)</span><br />@Model.Certificate.ToString()</p>
+        <p><span class="label">Vilken typ av sjukdom?</span><br />@Model.TypeOfSickness</p>
+        <p><span class="label">När blev du sjuk?</span><br />@Model.DateOfSickness.ToString("yyyy/MM/dd")</p>
+        <p><span class="label">Ditt namn (för- och efternamn):</span><br />@Model.EmployeeName</p>
+        <p><span class="label">Din telefon:</span><br />@Model.EmployeePhone</p>
+        <p><span class="label">Mer information:</span><br />@Model.Other</p>
+        <p><a class="button" asp-controller="Home" asp-action="Index" id="link">Tillbaka</a> <a class="button" asp-controller="Citizen" asp-action="Thanks" id="link">Bekräfta</a></p>
+      </section><!-- End Left -->
+
+        @await Component.InvokeAsync("PictureColumn")
+
+        <footer>
+            &copy; CodeSec All rights reserved.
+        </footer>
+    </div><!-- End Content -->
+	</body>

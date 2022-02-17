@@ -1,0 +1,51 @@
+﻿@{ 
+    @model SickNote
+}
+
+<h3>Ärende: @Model.RefNumber</h3>
+
+<!--Nedan ser man en lista på Anmälningar-->
+<section id="leftColumn">
+    <h3>Anmälan</h3>
+    <p>
+        <span class="label">Typ av sjukdom:</span><br />
+        @Model.TypeOfSickness
+    </p>
+    <p>
+        <span class="label">Läkarintyg (Sant/falskt): </span><br />
+        @Model.Certificate.ToString()
+    </p>
+    <p>
+        <span class="label">Sjukdatum: </span><br />
+        @Model.DateOfSickness.ToString("yyyy/MM/dd")
+    </p>
+    <p>
+        <span class="label">Anmälare: </span><br />
+        @Model.EmployeeName
+    </p>
+    <p>
+        <span class="label">Telefon: </span><br />
+        @Model.EmployeePhone
+    </p>
+    <p>
+        <span class="label">Mer information:</span><br />
+        @Model.Other
+    </p>
+</section>
+
+<section id="rightColumn">
+    <h3>Utredning</h3>
+    <p>
+        <span class="label">Status:</span><br />
+        @ViewBag.SickNoteConnecter.StatusName
+    </p>
+    <p>
+        <span class="label">Tillhörande avdelning: </span><br />
+        @ViewBag.SickNoteConnecter.DepartmentName
+    </p>
+    <p>
+        <span class="label">Anställds namn: </span><br />
+        @ViewBag.SickNoteConnecter.EmployeeName
+    </p>
+    </p>
+</section>

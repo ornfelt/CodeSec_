@@ -1,0 +1,756 @@
+2020-01-05 00:19:41.0095|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 00:19:44.8427|WARN|Microsoft.AspNetCore.Identity.UserManager|User eec95664-1d93-4421-bcd0-4dc9875c58ab password validation failed: PasswordTooShort.
+2020-01-05 00:19:44.8628|WARN|Microsoft.AspNetCore.Identity.UserManager|User 36e13401-4e61-4d27-9a5a-a0314298db43 password validation failed: PasswordTooShort.
+2020-01-05 00:19:44.8628|WARN|Microsoft.AspNetCore.Identity.UserManager|User 94fc0db2-5a0c-43e7-b9d9-0043c5e024ef password validation failed: PasswordTooShort.
+2020-01-05 00:19:44.8711|WARN|Microsoft.AspNetCore.Identity.UserManager|User 9e5a92c7-02a5-4b5a-b36a-8ae0de44b04d password validation failed: PasswordTooShort.
+2020-01-05 00:19:44.8711|WARN|Microsoft.AspNetCore.Identity.UserManager|User 1620e213-3565-449b-9d08-1f46254feddd password validation failed: PasswordTooShort.
+2020-01-05 00:19:44.8711|WARN|Microsoft.AspNetCore.Identity.UserManager|User 1192833b-4048-48ba-9d84-730d3db895c2 password validation failed: PasswordTooShort.
+2020-01-05 00:19:44.8837|WARN|Microsoft.AspNetCore.Identity.UserManager|User cf60ac1d-4433-43dc-af3d-bd2ae028ad2a password validation failed: PasswordTooShort.
+2020-01-05 00:19:44.8837|WARN|Microsoft.AspNetCore.Identity.UserManager|User 1206571b-9b11-47ea-b8b5-a8502bef9cbe password validation failed: PasswordTooShort.
+2020-01-05 00:19:44.8837|WARN|Microsoft.AspNetCore.Identity.UserManager|User f19abd1e-e260-45a3-ae17-90afd0bfca4c password validation failed: PasswordTooShort.
+2020-01-05 00:19:44.8837|WARN|Microsoft.AspNetCore.Identity.UserManager|User c23afd12-3842-4ec2-8a1f-24f35e58984a password validation failed: PasswordTooShort.
+2020-01-05 00:19:44.8998|WARN|Microsoft.AspNetCore.Identity.UserManager|User 7d7bfc7e-8889-4210-8de4-fdd7c4d6a9a9 password validation failed: PasswordTooShort.
+2020-01-05 00:19:44.8998|WARN|Microsoft.AspNetCore.Identity.UserManager|User 616cf595-7add-40ab-be3a-f1f416bc2439 password validation failed: PasswordTooShort.
+2020-01-05 00:19:44.8998|WARN|Microsoft.AspNetCore.Identity.UserManager|User 9e73eb61-6306-4905-847a-e649f7184969 password validation failed: PasswordTooShort.
+2020-01-05 00:19:44.9147|WARN|Microsoft.AspNetCore.Identity.UserManager|User 461c528c-9929-4803-a39a-c32e53bb0f74 password validation failed: PasswordTooShort.
+2020-01-05 00:19:44.9147|WARN|Microsoft.AspNetCore.Identity.UserManager|User fa6da3fa-a84a-48d4-acf9-da649bf354c3 password validation failed: PasswordTooShort.
+2020-01-05 00:19:44.9147|WARN|Microsoft.AspNetCore.Identity.UserManager|User ac2918f0-e18a-4de6-8124-8860d00fd03f password validation failed: PasswordTooShort.
+2020-01-05 00:19:44.9147|WARN|Microsoft.AspNetCore.Identity.UserManager|User 8150b5b5-8659-42f6-bac6-c06853cc1925 password validation failed: PasswordTooShort.
+2020-01-05 00:19:44.9147|WARN|Microsoft.AspNetCore.Identity.UserManager|User e17a28aa-4239-43c1-8d6a-5c64779b09d1 password validation failed: PasswordTooShort.
+2020-01-05 00:19:44.9325|WARN|Microsoft.AspNetCore.Identity.UserManager|User 9a7672f2-eb5f-4d33-b6f0-0653dad5e0a1 password validation failed: PasswordTooShort.
+2020-01-05 00:19:44.9325|WARN|Microsoft.AspNetCore.Identity.UserManager|User 2befa7cc-5ba7-4c78-bd0b-f116e10cfad4 password validation failed: PasswordTooShort.
+2020-01-05 00:19:44.9325|WARN|Microsoft.AspNetCore.Identity.UserManager|User d8c6a512-b41b-49bb-83d7-d2fc21a218e6 password validation failed: PasswordTooShort.
+2020-01-05 00:19:45.3891|ERROR|CodeSec.Program|An error occured while seeding the database.
+2020-01-05 00:19:45.3891|INFO|CodeSec.Program|Seeded the database.
+2020-01-05 00:24:12.3994|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 00:24:13.8420|WARN|Microsoft.AspNetCore.Identity.UserManager|User 3be2329b-a930-44b4-9f14-e19bdd54b4f7 password validation failed: PasswordTooShort.
+2020-01-05 00:24:13.8594|WARN|Microsoft.AspNetCore.Identity.UserManager|User 5c588f4d-e4c5-425b-aa6f-2f6c82fd0886 password validation failed: PasswordTooShort.
+2020-01-05 00:24:13.8594|WARN|Microsoft.AspNetCore.Identity.UserManager|User 621df2cf-523a-43dd-8783-d21f0b1d6699 password validation failed: PasswordTooShort.
+2020-01-05 00:24:13.8594|WARN|Microsoft.AspNetCore.Identity.UserManager|User 6c900310-9458-435b-ba54-0582cccf9b89 password validation failed: PasswordTooShort.
+2020-01-05 00:24:13.8740|WARN|Microsoft.AspNetCore.Identity.UserManager|User d7ddd21e-04ee-47f1-b558-0b5790191ecd password validation failed: PasswordTooShort.
+2020-01-05 00:24:13.8740|WARN|Microsoft.AspNetCore.Identity.UserManager|User 073059ff-4091-4ba5-8df3-35a9d4828723 password validation failed: PasswordTooShort.
+2020-01-05 00:24:13.8740|WARN|Microsoft.AspNetCore.Identity.UserManager|User 84fdaff0-2773-4cf6-9cac-a4bc32cd6452 password validation failed: PasswordTooShort.
+2020-01-05 00:24:13.8859|WARN|Microsoft.AspNetCore.Identity.UserManager|User 5b4e2e2a-d961-4f5d-8969-b67eb49ba79e password validation failed: PasswordTooShort.
+2020-01-05 00:24:13.8859|WARN|Microsoft.AspNetCore.Identity.UserManager|User 44fff4b1-e49a-41b2-810e-23d35a6023ad password validation failed: PasswordTooShort.
+2020-01-05 00:24:13.8859|WARN|Microsoft.AspNetCore.Identity.UserManager|User 6b41bbc8-6a0a-4b39-9675-2518bef52170 password validation failed: PasswordTooShort.
+2020-01-05 00:24:13.8859|WARN|Microsoft.AspNetCore.Identity.UserManager|User 6a794448-c166-4082-9444-4931fd9c385f password validation failed: PasswordTooShort.
+2020-01-05 00:24:13.8992|WARN|Microsoft.AspNetCore.Identity.UserManager|User b1a1f70b-2120-4555-a2ac-60fb24688812 password validation failed: PasswordTooShort.
+2020-01-05 00:24:13.8992|WARN|Microsoft.AspNetCore.Identity.UserManager|User 4d8eddf5-6c78-4a1d-bbc7-2a544e83f1df password validation failed: PasswordTooShort.
+2020-01-05 00:24:13.8992|WARN|Microsoft.AspNetCore.Identity.UserManager|User 497b403a-a7bf-43dd-aab7-7b5fcb6d22ca password validation failed: PasswordTooShort.
+2020-01-05 00:24:13.8992|WARN|Microsoft.AspNetCore.Identity.UserManager|User ef8e7ce1-a526-49a8-9734-ffae0ae30533 password validation failed: PasswordTooShort.
+2020-01-05 00:24:13.8992|WARN|Microsoft.AspNetCore.Identity.UserManager|User 90784a90-324b-4c0c-8470-7897ba4221b6 password validation failed: PasswordTooShort.
+2020-01-05 00:24:13.9157|WARN|Microsoft.AspNetCore.Identity.UserManager|User 360752a2-e4dd-492d-a6ee-856f9e4b818e password validation failed: PasswordTooShort.
+2020-01-05 00:24:13.9157|WARN|Microsoft.AspNetCore.Identity.UserManager|User 98a7e5ff-1d00-4e69-b9fa-cc933b587c34 password validation failed: PasswordTooShort.
+2020-01-05 00:24:13.9157|WARN|Microsoft.AspNetCore.Identity.UserManager|User 376378eb-cb3c-4b4f-879e-0479c5448749 password validation failed: PasswordTooShort.
+2020-01-05 00:24:13.9157|WARN|Microsoft.AspNetCore.Identity.UserManager|User e1f78a1a-bdcb-458e-a9e1-5fe978740c74 password validation failed: PasswordTooShort.
+2020-01-05 00:24:13.9303|WARN|Microsoft.AspNetCore.Identity.UserManager|User d70bfd3d-cc01-4084-a2cf-d95ee9373f17 password validation failed: PasswordTooShort.
+2020-01-05 00:24:14.1987|ERROR|CodeSec.Program|An error occured while seeding the database.
+2020-01-05 00:24:14.1987|INFO|CodeSec.Program|Seeded the database.
+2020-01-05 00:37:16.5091|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 00:37:21.0009|WARN|Microsoft.AspNetCore.Identity.UserManager|User d7b1190b-2245-41aa-a1f4-04a6c1138164 password validation failed: PasswordTooShort.
+2020-01-05 00:37:21.0188|WARN|Microsoft.AspNetCore.Identity.UserManager|User 4e6a06d5-8b06-4553-86ac-86da34fc2b9c password validation failed: PasswordTooShort.
+2020-01-05 00:37:21.0281|WARN|Microsoft.AspNetCore.Identity.UserManager|User dda05b01-2ba6-478a-81f4-afaf7fa4a351 password validation failed: PasswordTooShort.
+2020-01-05 00:37:21.0281|WARN|Microsoft.AspNetCore.Identity.UserManager|User a0d0cab5-0bd0-4627-9fdc-faa5bb3c2f85 password validation failed: PasswordTooShort.
+2020-01-05 00:37:21.0281|WARN|Microsoft.AspNetCore.Identity.UserManager|User 0ace8c68-3748-4f7a-ac3e-dca80ad5886f password validation failed: PasswordTooShort.
+2020-01-05 00:37:21.0394|WARN|Microsoft.AspNetCore.Identity.UserManager|User 7edbde2a-508a-403d-b949-d8f5d169d210 password validation failed: PasswordTooShort.
+2020-01-05 00:37:21.0394|WARN|Microsoft.AspNetCore.Identity.UserManager|User 22f73f16-cc9f-4557-b5c7-aa8eee2efc20 password validation failed: PasswordTooShort.
+2020-01-05 00:37:21.0394|WARN|Microsoft.AspNetCore.Identity.UserManager|User d132dcb2-018d-4484-aea3-baf6d05d28f6 password validation failed: PasswordTooShort.
+2020-01-05 00:37:21.0394|WARN|Microsoft.AspNetCore.Identity.UserManager|User b67ba1c3-8cb5-4699-b239-be77d9d62705 password validation failed: PasswordTooShort.
+2020-01-05 00:37:21.0559|WARN|Microsoft.AspNetCore.Identity.UserManager|User 8a44a6fd-64a0-4a95-a613-ffd9c1f4827a password validation failed: PasswordTooShort.
+2020-01-05 00:37:21.0559|WARN|Microsoft.AspNetCore.Identity.UserManager|User c714810e-daa8-4d4a-8efc-4e14107aa2d9 password validation failed: PasswordTooShort.
+2020-01-05 00:37:21.0559|WARN|Microsoft.AspNetCore.Identity.UserManager|User b19bc63e-0b92-4dd1-a25f-b871dffc6a0d password validation failed: PasswordTooShort.
+2020-01-05 00:37:21.0559|WARN|Microsoft.AspNetCore.Identity.UserManager|User 6363b68a-1447-4809-a365-28323f332741 password validation failed: PasswordTooShort.
+2020-01-05 00:37:21.0559|WARN|Microsoft.AspNetCore.Identity.UserManager|User 112fec84-6d8b-426d-bd4e-6eb08c7e11e2 password validation failed: PasswordTooShort.
+2020-01-05 00:37:21.0735|WARN|Microsoft.AspNetCore.Identity.UserManager|User c2defe9a-f960-4458-a69e-b052f28d2a16 password validation failed: PasswordTooShort.
+2020-01-05 00:37:21.0735|WARN|Microsoft.AspNetCore.Identity.UserManager|User 1c77d8a5-401e-4fd2-9b1d-923b67411086 password validation failed: PasswordTooShort.
+2020-01-05 00:37:21.0735|WARN|Microsoft.AspNetCore.Identity.UserManager|User 939860a5-4c44-4e99-97a3-d29fdf96f2aa password validation failed: PasswordTooShort.
+2020-01-05 00:37:21.0735|WARN|Microsoft.AspNetCore.Identity.UserManager|User 38dc904c-a123-4095-8ad5-b434e81d1ea6 password validation failed: PasswordTooShort.
+2020-01-05 00:37:21.0883|WARN|Microsoft.AspNetCore.Identity.UserManager|User 4aa3fc26-7168-4f69-8de3-fa06a36a1ee2 password validation failed: PasswordTooShort.
+2020-01-05 00:37:21.0883|WARN|Microsoft.AspNetCore.Identity.UserManager|User 3e308b12-ed38-4608-9f0b-9b578fb8f003 password validation failed: PasswordTooShort.
+2020-01-05 00:37:21.0883|WARN|Microsoft.AspNetCore.Identity.UserManager|User da4ca2ff-79d3-48cf-8549-44164e22eb38 password validation failed: PasswordTooShort.
+2020-01-05 00:37:21.4174|ERROR|CodeSec.Program|An error occured while seeding the database.
+2020-01-05 00:37:21.4174|INFO|CodeSec.Program|Seeded the database.
+2020-01-05 00:37:30.1041|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 00:37:30.1041|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 00:37:59.0079|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 00:37:59.0122|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 00:38:06.4725|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 00:38:06.4802|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 00:38:13.8761|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 00:38:13.8761|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 00:38:37.0059|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 00:38:37.0101|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 00:38:59.9593|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 00:38:59.9654|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 00:39:41.1516|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 00:39:41.1516|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 00:40:15.8133|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 00:40:15.8133|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 13:01:25.8412|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 13:01:31.5484|WARN|Microsoft.AspNetCore.Identity.UserManager|User 0d181a9d-2bca-4ba9-9985-f3554bf0dc2e validation failed: DuplicateUserName.
+2020-01-05 13:01:31.5830|WARN|Microsoft.AspNetCore.Identity.UserManager|User da1dd1f3-71cd-4e30-948f-c418d81c574c validation failed: DuplicateUserName.
+2020-01-05 13:01:31.6025|WARN|Microsoft.AspNetCore.Identity.UserManager|User c6f2e74a-e981-4626-ab8d-d6d89e254f73 validation failed: DuplicateUserName.
+2020-01-05 13:01:31.6210|WARN|Microsoft.AspNetCore.Identity.UserManager|User 2c11ce77-1d64-41c6-97fc-2cf5db9361fd validation failed: DuplicateUserName.
+2020-01-05 13:01:31.6385|WARN|Microsoft.AspNetCore.Identity.UserManager|User 5787fbfb-85a8-4f72-be6d-45435b17d346 validation failed: DuplicateUserName.
+2020-01-05 13:01:31.6557|WARN|Microsoft.AspNetCore.Identity.UserManager|User ab7beb6d-5dc4-47a2-ab55-3499381f4505 validation failed: DuplicateUserName.
+2020-01-05 13:01:31.6731|WARN|Microsoft.AspNetCore.Identity.UserManager|User 30f1b16f-9c53-41ea-8aca-66652855245f validation failed: DuplicateUserName.
+2020-01-05 13:01:31.7511|WARN|Microsoft.AspNetCore.Identity.UserManager|User 0d181a9d-2bca-4ba9-9985-f3554bf0dc2e validation failed: DuplicateUserName.
+2020-01-05 13:01:31.7688|WARN|Microsoft.AspNetCore.Identity.UserManager|User da1dd1f3-71cd-4e30-948f-c418d81c574c validation failed: DuplicateUserName.
+2020-01-05 13:01:31.7815|WARN|Microsoft.AspNetCore.Identity.UserManager|User c6f2e74a-e981-4626-ab8d-d6d89e254f73 validation failed: DuplicateUserName.
+2020-01-05 13:01:31.7958|WARN|Microsoft.AspNetCore.Identity.UserManager|User 2c11ce77-1d64-41c6-97fc-2cf5db9361fd validation failed: DuplicateUserName.
+2020-01-05 13:01:31.8106|WARN|Microsoft.AspNetCore.Identity.UserManager|User 5787fbfb-85a8-4f72-be6d-45435b17d346 validation failed: DuplicateUserName.
+2020-01-05 13:01:31.8251|WARN|Microsoft.AspNetCore.Identity.UserManager|User ab7beb6d-5dc4-47a2-ab55-3499381f4505 validation failed: DuplicateUserName.
+2020-01-05 13:01:31.8391|WARN|Microsoft.AspNetCore.Identity.UserManager|User 30f1b16f-9c53-41ea-8aca-66652855245f validation failed: DuplicateUserName.
+2020-01-05 13:01:31.8391|INFO|CodeSec.Program|Seeded the database.
+2020-01-05 13:02:53.6697|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 13:03:09.1723|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 13:03:39.1721|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 13:04:00.1632|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 13:05:45.0845|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 13:05:48.8703|INFO|CodeSec.Program|Seeded the database.
+2020-01-05 13:06:44.6807|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 13:06:44.6963|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 13:07:00.9956|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 13:07:00.9956|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 13:07:07.9275|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 13:07:07.9365|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 13:07:49.9638|WARN|Microsoft.AspNetCore.Identity.UserManager|Invalid password for user ca2ff9cf-91bc-4a75-be42-9e20371dbc1b.
+2020-01-05 13:07:49.9638|WARN|Microsoft.AspNetCore.Identity.SignInManager|User ca2ff9cf-91bc-4a75-be42-9e20371dbc1b failed to provide the correct password.
+2020-01-05 13:08:25.3489|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 13:08:25.3536|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 13:09:15.2077|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 13:09:15.2120|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 13:18:34.7012|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 13:18:39.8540|WARN|Microsoft.AspNetCore.Identity.UserManager|User 77dc8178-0f50-48f7-b553-edaf708dfa21 validation failed: DuplicateUserName.
+2020-01-05 13:18:39.8888|WARN|Microsoft.AspNetCore.Identity.UserManager|User e0096c40-12ae-49f1-932b-ab8764b1ddc8 validation failed: DuplicateUserName.
+2020-01-05 13:18:39.9096|WARN|Microsoft.AspNetCore.Identity.UserManager|User 1e816f43-9360-46a9-b867-2515b516ccad validation failed: DuplicateUserName.
+2020-01-05 13:18:39.9275|WARN|Microsoft.AspNetCore.Identity.UserManager|User f215d17c-8d6d-4e76-88e1-6b6501c19093 validation failed: DuplicateUserName.
+2020-01-05 13:18:39.9451|WARN|Microsoft.AspNetCore.Identity.UserManager|User 868b5112-d5bb-4b1c-8932-cd53dc893be6 validation failed: DuplicateUserName.
+2020-01-05 13:18:39.9622|WARN|Microsoft.AspNetCore.Identity.UserManager|User 1cff0288-be71-4788-b148-7992bfcd13ce validation failed: DuplicateUserName.
+2020-01-05 13:18:39.9803|WARN|Microsoft.AspNetCore.Identity.UserManager|User 44f2bf9b-ba3b-4338-a205-de2b97105360 validation failed: DuplicateUserName.
+2020-01-05 13:18:40.0616|WARN|Microsoft.AspNetCore.Identity.UserManager|User 77dc8178-0f50-48f7-b553-edaf708dfa21 validation failed: DuplicateUserName.
+2020-01-05 13:18:40.0832|WARN|Microsoft.AspNetCore.Identity.UserManager|User e0096c40-12ae-49f1-932b-ab8764b1ddc8 validation failed: DuplicateUserName.
+2020-01-05 13:18:40.0978|WARN|Microsoft.AspNetCore.Identity.UserManager|User 1e816f43-9360-46a9-b867-2515b516ccad validation failed: DuplicateUserName.
+2020-01-05 13:18:40.1123|WARN|Microsoft.AspNetCore.Identity.UserManager|User f215d17c-8d6d-4e76-88e1-6b6501c19093 validation failed: DuplicateUserName.
+2020-01-05 13:18:40.1271|WARN|Microsoft.AspNetCore.Identity.UserManager|User 868b5112-d5bb-4b1c-8932-cd53dc893be6 validation failed: DuplicateUserName.
+2020-01-05 13:18:40.1414|WARN|Microsoft.AspNetCore.Identity.UserManager|User 1cff0288-be71-4788-b148-7992bfcd13ce validation failed: DuplicateUserName.
+2020-01-05 13:18:40.1542|WARN|Microsoft.AspNetCore.Identity.UserManager|User 44f2bf9b-ba3b-4338-a205-de2b97105360 validation failed: DuplicateUserName.
+2020-01-05 13:18:40.1542|INFO|CodeSec.Program|Seeded the database.
+2020-01-05 13:18:57.8467|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 13:18:57.8467|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 13:19:01.7389|ERROR|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|The view 'ReportSickNote' was not found. Searched locations: /Views/RegularEmployee/ReportSickNote.cshtml, /Views/Shared/ReportSickNote.cshtml, /Pages/Shared/ReportSickNote.cshtml
+2020-01-05 13:19:01.8408|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2020-01-05 13:25:30.2477|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 13:25:35.0213|WARN|Microsoft.AspNetCore.Identity.UserManager|User a9f34584-7cfb-4fe8-9787-4ccba4e5fc86 validation failed: DuplicateUserName.
+2020-01-05 13:25:35.0642|WARN|Microsoft.AspNetCore.Identity.UserManager|User bf56139d-79ab-4ad0-b216-9c1c395ff090 validation failed: DuplicateUserName.
+2020-01-05 13:25:35.0886|WARN|Microsoft.AspNetCore.Identity.UserManager|User 416b610a-2137-495a-8380-566d89e29fdb validation failed: DuplicateUserName.
+2020-01-05 13:25:35.1075|WARN|Microsoft.AspNetCore.Identity.UserManager|User 93f3f51a-8bbf-4e3f-be91-8cd7e98c8eae validation failed: DuplicateUserName.
+2020-01-05 13:25:35.1267|WARN|Microsoft.AspNetCore.Identity.UserManager|User c5ea0237-639c-4c89-a8be-934c52fc8825 validation failed: DuplicateUserName.
+2020-01-05 13:25:35.1469|WARN|Microsoft.AspNetCore.Identity.UserManager|User b1d14458-9437-4efa-9ec0-e2280109021b validation failed: DuplicateUserName.
+2020-01-05 13:25:35.1732|WARN|Microsoft.AspNetCore.Identity.UserManager|User 65482eea-5859-4017-badf-bf16e9bcfec7 validation failed: DuplicateUserName.
+2020-01-05 13:25:35.2453|WARN|Microsoft.AspNetCore.Identity.UserManager|User a9f34584-7cfb-4fe8-9787-4ccba4e5fc86 validation failed: DuplicateUserName.
+2020-01-05 13:25:35.2633|WARN|Microsoft.AspNetCore.Identity.UserManager|User bf56139d-79ab-4ad0-b216-9c1c395ff090 validation failed: DuplicateUserName.
+2020-01-05 13:25:35.2777|WARN|Microsoft.AspNetCore.Identity.UserManager|User 416b610a-2137-495a-8380-566d89e29fdb validation failed: DuplicateUserName.
+2020-01-05 13:25:35.2917|WARN|Microsoft.AspNetCore.Identity.UserManager|User 93f3f51a-8bbf-4e3f-be91-8cd7e98c8eae validation failed: DuplicateUserName.
+2020-01-05 13:25:35.3073|WARN|Microsoft.AspNetCore.Identity.UserManager|User c5ea0237-639c-4c89-a8be-934c52fc8825 validation failed: DuplicateUserName.
+2020-01-05 13:25:35.3073|WARN|Microsoft.AspNetCore.Identity.UserManager|User b1d14458-9437-4efa-9ec0-e2280109021b validation failed: DuplicateUserName.
+2020-01-05 13:25:35.3335|WARN|Microsoft.AspNetCore.Identity.UserManager|User 65482eea-5859-4017-badf-bf16e9bcfec7 validation failed: DuplicateUserName.
+2020-01-05 13:25:35.3376|INFO|CodeSec.Program|Seeded the database.
+2020-01-05 13:25:53.1729|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 13:25:53.1729|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 13:26:34.5500|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 13:26:34.5500|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 13:32:29.5072|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 13:32:37.0132|WARN|Microsoft.AspNetCore.Identity.UserManager|User fb1d8d29-7c84-43d7-af8d-01d534344f58 validation failed: DuplicateUserName.
+2020-01-05 13:32:37.0612|WARN|Microsoft.AspNetCore.Identity.UserManager|User f4f580fd-d702-47b0-a8b8-84f13a39e6bf validation failed: DuplicateUserName.
+2020-01-05 13:32:37.0794|WARN|Microsoft.AspNetCore.Identity.UserManager|User 598f24b5-2df3-49e3-bc77-d2e2a6a2f053 validation failed: DuplicateUserName.
+2020-01-05 13:32:37.0982|WARN|Microsoft.AspNetCore.Identity.UserManager|User f489cd59-9222-486c-88e4-a2900e4e4f36 validation failed: DuplicateUserName.
+2020-01-05 13:32:37.1163|WARN|Microsoft.AspNetCore.Identity.UserManager|User 323e0d5f-7140-4a0b-913e-3580bae4f351 validation failed: DuplicateUserName.
+2020-01-05 13:32:37.1342|WARN|Microsoft.AspNetCore.Identity.UserManager|User bbee5eb2-da16-4ac1-93d3-7a158b2570ac validation failed: DuplicateUserName.
+2020-01-05 13:32:37.1592|WARN|Microsoft.AspNetCore.Identity.UserManager|User d6ad9884-be43-432b-8cf0-c8607b6b5b96 validation failed: DuplicateUserName.
+2020-01-05 13:32:37.2554|WARN|Microsoft.AspNetCore.Identity.UserManager|User fb1d8d29-7c84-43d7-af8d-01d534344f58 validation failed: DuplicateUserName.
+2020-01-05 13:32:37.2780|WARN|Microsoft.AspNetCore.Identity.UserManager|User f4f580fd-d702-47b0-a8b8-84f13a39e6bf validation failed: DuplicateUserName.
+2020-01-05 13:32:37.2951|WARN|Microsoft.AspNetCore.Identity.UserManager|User 598f24b5-2df3-49e3-bc77-d2e2a6a2f053 validation failed: DuplicateUserName.
+2020-01-05 13:32:37.3124|WARN|Microsoft.AspNetCore.Identity.UserManager|User f489cd59-9222-486c-88e4-a2900e4e4f36 validation failed: DuplicateUserName.
+2020-01-05 13:32:37.3265|WARN|Microsoft.AspNetCore.Identity.UserManager|User 323e0d5f-7140-4a0b-913e-3580bae4f351 validation failed: DuplicateUserName.
+2020-01-05 13:32:37.3450|WARN|Microsoft.AspNetCore.Identity.UserManager|User bbee5eb2-da16-4ac1-93d3-7a158b2570ac validation failed: DuplicateUserName.
+2020-01-05 13:32:37.3574|WARN|Microsoft.AspNetCore.Identity.UserManager|User d6ad9884-be43-432b-8cf0-c8607b6b5b96 validation failed: DuplicateUserName.
+2020-01-05 13:32:37.3574|INFO|CodeSec.Program|Seeded the database.
+2020-01-05 13:32:48.4808|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 13:32:48.4808|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 13:33:32.4456|INFO|CodeSec.Controllers.ExecutiveEmployeeController|Sicknote created by user: Jonas Örnfelt, Type of sicknote: Förkylning, IP
+2020-01-05 13:33:32.4456|INFO|CodeSec.Controllers.ExecutiveEmployeeController|Detta är protectedInfo: CfDJ8PlvaOAfcixCq2HtyEGj8YNwbWWgzsUUnQtYUFY4TjlQ3T9AGXdlymszKkXN_BsfmRDBYOCBYzdLjXydKp8RPL0V38B7b_X7wgJHo64GIoUXw8XFPMuM9Wm6OLA1g2-ubtUXwWmMO33wppzScrBbpYHMfOFW0Wxcj4QGSJAHW5jGwXAEVpvXC83HA79P_fFF50rPG478b2SqJlPU4smQE4w
+2020-01-05 13:33:48.6141|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 13:33:48.6179|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 13:34:00.4562|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 13:34:00.4562|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 13:34:05.6115|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 13:34:05.6115|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 14:17:58.8581|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 14:18:05.6620|WARN|Microsoft.AspNetCore.Identity.UserManager|User bcaf8e49-1dee-4f49-bbb1-f8f62175698d validation failed: DuplicateUserName.
+2020-01-05 14:18:05.7068|WARN|Microsoft.AspNetCore.Identity.UserManager|User 9cd4d498-fac0-4707-bffc-0c3266f62874 validation failed: DuplicateUserName.
+2020-01-05 14:18:05.7255|WARN|Microsoft.AspNetCore.Identity.UserManager|User 1f12e77a-1697-4614-bee9-d108d4e53d10 validation failed: DuplicateUserName.
+2020-01-05 14:18:05.7431|WARN|Microsoft.AspNetCore.Identity.UserManager|User 7c60a915-acbc-4a39-bca0-989e52bdfb12 validation failed: DuplicateUserName.
+2020-01-05 14:18:05.7604|WARN|Microsoft.AspNetCore.Identity.UserManager|User 399a129d-6ec2-49ae-8b0f-823c68fdbafc validation failed: DuplicateUserName.
+2020-01-05 14:18:05.7794|WARN|Microsoft.AspNetCore.Identity.UserManager|User 3baec19b-a589-44fd-87f2-59372eef82ca validation failed: DuplicateUserName.
+2020-01-05 14:18:05.7977|WARN|Microsoft.AspNetCore.Identity.UserManager|User cd665579-ca2c-4b5e-b439-72e38fbb98db validation failed: DuplicateUserName.
+2020-01-05 14:18:05.8758|WARN|Microsoft.AspNetCore.Identity.UserManager|User bcaf8e49-1dee-4f49-bbb1-f8f62175698d validation failed: DuplicateUserName.
+2020-01-05 14:18:05.8921|WARN|Microsoft.AspNetCore.Identity.UserManager|User 9cd4d498-fac0-4707-bffc-0c3266f62874 validation failed: DuplicateUserName.
+2020-01-05 14:18:05.9047|WARN|Microsoft.AspNetCore.Identity.UserManager|User 1f12e77a-1697-4614-bee9-d108d4e53d10 validation failed: DuplicateUserName.
+2020-01-05 14:18:05.9171|WARN|Microsoft.AspNetCore.Identity.UserManager|User 7c60a915-acbc-4a39-bca0-989e52bdfb12 validation failed: DuplicateUserName.
+2020-01-05 14:18:05.9297|WARN|Microsoft.AspNetCore.Identity.UserManager|User 399a129d-6ec2-49ae-8b0f-823c68fdbafc validation failed: DuplicateUserName.
+2020-01-05 14:18:05.9297|WARN|Microsoft.AspNetCore.Identity.UserManager|User 3baec19b-a589-44fd-87f2-59372eef82ca validation failed: DuplicateUserName.
+2020-01-05 14:18:05.9554|WARN|Microsoft.AspNetCore.Identity.UserManager|User cd665579-ca2c-4b5e-b439-72e38fbb98db validation failed: DuplicateUserName.
+2020-01-05 14:18:05.9554|INFO|CodeSec.Program|Seeded the database.
+2020-01-05 14:18:12.6581|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 14:18:12.6581|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 14:23:07.5249|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 14:23:10.6363|WARN|Microsoft.AspNetCore.Identity.UserManager|User 110a216a-6dd4-4118-9934-ce9d9817681e validation failed: DuplicateUserName.
+2020-01-05 14:23:10.6758|WARN|Microsoft.AspNetCore.Identity.UserManager|User 4ddd4696-994f-413d-84b8-384594c35227 validation failed: DuplicateUserName.
+2020-01-05 14:23:10.6967|WARN|Microsoft.AspNetCore.Identity.UserManager|User d3c42012-2a43-4744-a7d2-c1c46a629802 validation failed: DuplicateUserName.
+2020-01-05 14:23:10.7189|WARN|Microsoft.AspNetCore.Identity.UserManager|User c109c76d-9816-4f22-8670-26b99cbbaf66 validation failed: DuplicateUserName.
+2020-01-05 14:23:10.7463|WARN|Microsoft.AspNetCore.Identity.UserManager|User 899ded6a-33d6-4055-8446-1215ef8ab166 validation failed: DuplicateUserName.
+2020-01-05 14:23:10.7711|WARN|Microsoft.AspNetCore.Identity.UserManager|User ed489dee-42c0-4e1c-85b7-1760cf01476d validation failed: DuplicateUserName.
+2020-01-05 14:23:10.7960|WARN|Microsoft.AspNetCore.Identity.UserManager|User eae2ce1f-81b0-49db-afb1-07f9f3a9d296 validation failed: DuplicateUserName.
+2020-01-05 14:23:10.9120|WARN|Microsoft.AspNetCore.Identity.UserManager|User 110a216a-6dd4-4118-9934-ce9d9817681e validation failed: DuplicateUserName.
+2020-01-05 14:23:10.9284|WARN|Microsoft.AspNetCore.Identity.UserManager|User 4ddd4696-994f-413d-84b8-384594c35227 validation failed: DuplicateUserName.
+2020-01-05 14:23:10.9431|WARN|Microsoft.AspNetCore.Identity.UserManager|User d3c42012-2a43-4744-a7d2-c1c46a629802 validation failed: DuplicateUserName.
+2020-01-05 14:23:10.9645|WARN|Microsoft.AspNetCore.Identity.UserManager|User c109c76d-9816-4f22-8670-26b99cbbaf66 validation failed: DuplicateUserName.
+2020-01-05 14:23:10.9847|WARN|Microsoft.AspNetCore.Identity.UserManager|User 899ded6a-33d6-4055-8446-1215ef8ab166 validation failed: DuplicateUserName.
+2020-01-05 14:23:11.0051|WARN|Microsoft.AspNetCore.Identity.UserManager|User ed489dee-42c0-4e1c-85b7-1760cf01476d validation failed: DuplicateUserName.
+2020-01-05 14:23:11.0255|WARN|Microsoft.AspNetCore.Identity.UserManager|User eae2ce1f-81b0-49db-afb1-07f9f3a9d296 validation failed: DuplicateUserName.
+2020-01-05 14:23:11.0255|INFO|CodeSec.Program|Seeded the database.
+2020-01-05 14:23:40.2517|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 14:23:40.2594|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 15:03:17.8854|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 15:03:23.9864|WARN|Microsoft.AspNetCore.Identity.UserManager|User f2096bef-1bfb-4303-81d3-c429233099aa validation failed: DuplicateUserName.
+2020-01-05 15:03:24.0203|WARN|Microsoft.AspNetCore.Identity.UserManager|User 5b416d08-8d67-4641-908f-1215dafa861d validation failed: DuplicateUserName.
+2020-01-05 15:03:24.0380|WARN|Microsoft.AspNetCore.Identity.UserManager|User 6c1bb5ab-3d7c-4d23-a2de-4bda5ac5f980 validation failed: DuplicateUserName.
+2020-01-05 15:03:24.0554|WARN|Microsoft.AspNetCore.Identity.UserManager|User 436add96-1d14-495b-a720-90c22e2b4f05 validation failed: DuplicateUserName.
+2020-01-05 15:03:24.0780|WARN|Microsoft.AspNetCore.Identity.UserManager|User c9012f95-2a00-49fb-8251-d506995c5f3d validation failed: DuplicateUserName.
+2020-01-05 15:03:24.1027|WARN|Microsoft.AspNetCore.Identity.UserManager|User 943282c5-dcb0-4018-98b0-c36bdc3e4bac validation failed: DuplicateUserName.
+2020-01-05 15:03:24.1244|WARN|Microsoft.AspNetCore.Identity.UserManager|User bbdea072-5220-4e4e-9ad7-43bfd56ca84f validation failed: DuplicateUserName.
+2020-01-05 15:03:24.2046|WARN|Microsoft.AspNetCore.Identity.UserManager|User f2096bef-1bfb-4303-81d3-c429233099aa validation failed: DuplicateUserName.
+2020-01-05 15:03:24.2217|WARN|Microsoft.AspNetCore.Identity.UserManager|User 5b416d08-8d67-4641-908f-1215dafa861d validation failed: DuplicateUserName.
+2020-01-05 15:03:24.2335|WARN|Microsoft.AspNetCore.Identity.UserManager|User 6c1bb5ab-3d7c-4d23-a2de-4bda5ac5f980 validation failed: DuplicateUserName.
+2020-01-05 15:03:24.2480|WARN|Microsoft.AspNetCore.Identity.UserManager|User 436add96-1d14-495b-a720-90c22e2b4f05 validation failed: DuplicateUserName.
+2020-01-05 15:03:24.2609|WARN|Microsoft.AspNetCore.Identity.UserManager|User c9012f95-2a00-49fb-8251-d506995c5f3d validation failed: DuplicateUserName.
+2020-01-05 15:03:24.2758|WARN|Microsoft.AspNetCore.Identity.UserManager|User 943282c5-dcb0-4018-98b0-c36bdc3e4bac validation failed: DuplicateUserName.
+2020-01-05 15:03:24.2895|WARN|Microsoft.AspNetCore.Identity.UserManager|User bbdea072-5220-4e4e-9ad7-43bfd56ca84f validation failed: DuplicateUserName.
+2020-01-05 15:03:24.2895|INFO|CodeSec.Program|Seeded the database.
+2020-01-05 15:03:34.2391|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 15:03:34.2465|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 15:04:00.7505|INFO|CodeSec.Controllers.ExecutiveEmployeeController|Sicknote created by user: Jonny Stolt, Type of sicknote: Vård av barn, IP
+2020-01-05 15:04:00.7600|INFO|CodeSec.Controllers.ExecutiveEmployeeController|Ny anmälning skapad: CfDJ8PlvaOAfcixCq2HtyEGj8YO1JeYy255HllmHTfge_QxqbQ6f2CIaYS4vETkalUcgs3ZF0kQ-kiNwf4Zot-Is7BZL4U9Ga96luejt335BL3Y6xRoAAVCW3HuAqew2x9Ot7X4hSZQ2Bp0KtheGIj-vdxKSj-B7NEE3XXy1vPMRvw5GFsx50onIf_qh8VNgBWs729ap6Sv78djtX3sh8K4PUj7HTb36IMVqPqhv1TbqynZfvYZggYS0vga06WAtR5HL4A
+2020-01-05 15:04:57.5513|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 15:04:57.5573|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 15:18:26.0317|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 15:18:30.8373|WARN|Microsoft.AspNetCore.Identity.UserManager|User b6f68e72-ce17-49a0-8c12-f39bb1eac951 validation failed: DuplicateUserName.
+2020-01-05 15:18:30.8719|WARN|Microsoft.AspNetCore.Identity.UserManager|User 1c016ba5-cee3-4530-8d63-cf4ca819314f validation failed: DuplicateUserName.
+2020-01-05 15:18:30.9000|WARN|Microsoft.AspNetCore.Identity.UserManager|User 80e15542-9e60-48c7-96ac-500da51bcf04 validation failed: DuplicateUserName.
+2020-01-05 15:18:30.9176|WARN|Microsoft.AspNetCore.Identity.UserManager|User 69a5a8d7-cba5-4544-8ca2-9d00a95f2d25 validation failed: DuplicateUserName.
+2020-01-05 15:18:30.9352|WARN|Microsoft.AspNetCore.Identity.UserManager|User 123190e0-6c27-4ef5-9d8b-76d0b9944346 validation failed: DuplicateUserName.
+2020-01-05 15:18:30.9529|WARN|Microsoft.AspNetCore.Identity.UserManager|User 379dae11-294c-4025-a08a-ea395f09dc17 validation failed: DuplicateUserName.
+2020-01-05 15:18:30.9709|WARN|Microsoft.AspNetCore.Identity.UserManager|User 78193e64-4d4b-4dc6-b22f-f535b2df16ef validation failed: DuplicateUserName.
+2020-01-05 15:18:31.0558|WARN|Microsoft.AspNetCore.Identity.UserManager|User b6f68e72-ce17-49a0-8c12-f39bb1eac951 validation failed: DuplicateUserName.
+2020-01-05 15:18:31.0740|WARN|Microsoft.AspNetCore.Identity.UserManager|User 1c016ba5-cee3-4530-8d63-cf4ca819314f validation failed: DuplicateUserName.
+2020-01-05 15:18:31.0884|WARN|Microsoft.AspNetCore.Identity.UserManager|User 80e15542-9e60-48c7-96ac-500da51bcf04 validation failed: DuplicateUserName.
+2020-01-05 15:18:31.1030|WARN|Microsoft.AspNetCore.Identity.UserManager|User 69a5a8d7-cba5-4544-8ca2-9d00a95f2d25 validation failed: DuplicateUserName.
+2020-01-05 15:18:31.1156|WARN|Microsoft.AspNetCore.Identity.UserManager|User 123190e0-6c27-4ef5-9d8b-76d0b9944346 validation failed: DuplicateUserName.
+2020-01-05 15:18:31.1156|WARN|Microsoft.AspNetCore.Identity.UserManager|User 379dae11-294c-4025-a08a-ea395f09dc17 validation failed: DuplicateUserName.
+2020-01-05 15:18:31.1449|WARN|Microsoft.AspNetCore.Identity.UserManager|User 78193e64-4d4b-4dc6-b22f-f535b2df16ef validation failed: DuplicateUserName.
+2020-01-05 15:18:31.1497|INFO|CodeSec.Program|Seeded the database.
+2020-01-05 15:18:36.3908|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 15:18:36.3961|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 15:20:22.6304|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 15:20:25.2952|WARN|Microsoft.AspNetCore.Identity.UserManager|User 85315676-ef4f-416e-8422-7dd2488e4fbc validation failed: DuplicateUserName.
+2020-01-05 15:20:25.3478|WARN|Microsoft.AspNetCore.Identity.UserManager|User 4fac13e5-745b-48e1-99ab-9b18744c6923 validation failed: DuplicateUserName.
+2020-01-05 15:20:25.3660|WARN|Microsoft.AspNetCore.Identity.UserManager|User 74f2d556-da6c-41e5-8c8f-0ad90ccf2e5d validation failed: DuplicateUserName.
+2020-01-05 15:20:25.3853|WARN|Microsoft.AspNetCore.Identity.UserManager|User d9b65cf4-9874-4e91-9362-baedfbc39880 validation failed: DuplicateUserName.
+2020-01-05 15:20:25.4128|WARN|Microsoft.AspNetCore.Identity.UserManager|User 9d71442f-2f8d-4184-bddc-b8fa0df9a5e1 validation failed: DuplicateUserName.
+2020-01-05 15:20:25.4455|WARN|Microsoft.AspNetCore.Identity.UserManager|User 208f61dd-a9d2-44e3-8178-8c4eeb43a184 validation failed: DuplicateUserName.
+2020-01-05 15:20:25.4709|WARN|Microsoft.AspNetCore.Identity.UserManager|User 42d9f874-2994-4473-8c97-c088464ff438 validation failed: DuplicateUserName.
+2020-01-05 15:20:25.5872|WARN|Microsoft.AspNetCore.Identity.UserManager|User 85315676-ef4f-416e-8422-7dd2488e4fbc validation failed: DuplicateUserName.
+2020-01-05 15:20:25.6043|WARN|Microsoft.AspNetCore.Identity.UserManager|User 4fac13e5-745b-48e1-99ab-9b18744c6923 validation failed: DuplicateUserName.
+2020-01-05 15:20:25.6174|WARN|Microsoft.AspNetCore.Identity.UserManager|User 74f2d556-da6c-41e5-8c8f-0ad90ccf2e5d validation failed: DuplicateUserName.
+2020-01-05 15:20:25.6366|WARN|Microsoft.AspNetCore.Identity.UserManager|User d9b65cf4-9874-4e91-9362-baedfbc39880 validation failed: DuplicateUserName.
+2020-01-05 15:20:25.6575|WARN|Microsoft.AspNetCore.Identity.UserManager|User 9d71442f-2f8d-4184-bddc-b8fa0df9a5e1 validation failed: DuplicateUserName.
+2020-01-05 15:20:25.6777|WARN|Microsoft.AspNetCore.Identity.UserManager|User 208f61dd-a9d2-44e3-8178-8c4eeb43a184 validation failed: DuplicateUserName.
+2020-01-05 15:20:25.7064|WARN|Microsoft.AspNetCore.Identity.UserManager|User 42d9f874-2994-4473-8c97-c088464ff438 validation failed: DuplicateUserName.
+2020-01-05 15:20:25.7118|INFO|CodeSec.Program|Seeded the database.
+2020-01-05 15:20:30.6360|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 15:20:30.6360|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 15:21:14.2174|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2020-01-05 15:25:45.8223|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 15:25:48.7098|WARN|Microsoft.AspNetCore.Identity.UserManager|User 8522add4-5fc6-4678-becf-ca129e6a04c7 validation failed: DuplicateUserName.
+2020-01-05 15:25:48.7708|WARN|Microsoft.AspNetCore.Identity.UserManager|User b03bfc85-ffa4-4971-b18c-a93a55813eeb validation failed: DuplicateUserName.
+2020-01-05 15:25:48.7898|WARN|Microsoft.AspNetCore.Identity.UserManager|User 3c699dac-eb66-494d-8133-798e86e081aa validation failed: DuplicateUserName.
+2020-01-05 15:25:48.8086|WARN|Microsoft.AspNetCore.Identity.UserManager|User a7d50293-d2d2-47d0-b5e4-65cdbbdeaf00 validation failed: DuplicateUserName.
+2020-01-05 15:25:48.8265|WARN|Microsoft.AspNetCore.Identity.UserManager|User 575126a6-3a7e-4c6e-b0bf-0d5790ff1be9 validation failed: DuplicateUserName.
+2020-01-05 15:25:48.8466|WARN|Microsoft.AspNetCore.Identity.UserManager|User 05635a1d-eef7-4394-9729-c2ca107428fd validation failed: DuplicateUserName.
+2020-01-05 15:25:48.8675|WARN|Microsoft.AspNetCore.Identity.UserManager|User 8ada1989-9a7a-48fc-bf87-c207470506e2 validation failed: DuplicateUserName.
+2020-01-05 15:25:48.9842|WARN|Microsoft.AspNetCore.Identity.UserManager|User 8522add4-5fc6-4678-becf-ca129e6a04c7 validation failed: DuplicateUserName.
+2020-01-05 15:25:49.0097|WARN|Microsoft.AspNetCore.Identity.UserManager|User b03bfc85-ffa4-4971-b18c-a93a55813eeb validation failed: DuplicateUserName.
+2020-01-05 15:25:49.0263|WARN|Microsoft.AspNetCore.Identity.UserManager|User 3c699dac-eb66-494d-8133-798e86e081aa validation failed: DuplicateUserName.
+2020-01-05 15:25:49.0389|WARN|Microsoft.AspNetCore.Identity.UserManager|User a7d50293-d2d2-47d0-b5e4-65cdbbdeaf00 validation failed: DuplicateUserName.
+2020-01-05 15:25:49.0389|WARN|Microsoft.AspNetCore.Identity.UserManager|User 575126a6-3a7e-4c6e-b0bf-0d5790ff1be9 validation failed: DuplicateUserName.
+2020-01-05 15:25:49.0662|WARN|Microsoft.AspNetCore.Identity.UserManager|User 05635a1d-eef7-4394-9729-c2ca107428fd validation failed: DuplicateUserName.
+2020-01-05 15:25:49.0796|WARN|Microsoft.AspNetCore.Identity.UserManager|User 8ada1989-9a7a-48fc-bf87-c207470506e2 validation failed: DuplicateUserName.
+2020-01-05 15:25:49.0796|INFO|CodeSec.Program|Seeded the database.
+2020-01-05 15:25:55.3428|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 15:25:55.3428|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 15:30:12.1251|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 15:30:15.3274|WARN|Microsoft.AspNetCore.Identity.UserManager|User 5df53a5b-8c67-4ba4-8983-bbc7a2f5aa1d validation failed: DuplicateUserName.
+2020-01-05 15:30:15.3806|WARN|Microsoft.AspNetCore.Identity.UserManager|User 9f06d737-868b-4259-9053-333f092d3424 validation failed: DuplicateUserName.
+2020-01-05 15:30:15.4033|WARN|Microsoft.AspNetCore.Identity.UserManager|User e051a59f-7955-4ccf-8a3e-ab183bc6d723 validation failed: DuplicateUserName.
+2020-01-05 15:30:15.4271|WARN|Microsoft.AspNetCore.Identity.UserManager|User 615bd5cd-ff46-48f5-97c5-447d3c47f567 validation failed: DuplicateUserName.
+2020-01-05 15:30:15.4513|WARN|Microsoft.AspNetCore.Identity.UserManager|User 366252ce-ab04-4e67-a7dc-80409e31a79e validation failed: DuplicateUserName.
+2020-01-05 15:30:15.4720|WARN|Microsoft.AspNetCore.Identity.UserManager|User 075984ef-e3f7-49e1-ad06-ba386065beaf validation failed: DuplicateUserName.
+2020-01-05 15:30:15.4906|WARN|Microsoft.AspNetCore.Identity.UserManager|User 9c0c6b9f-b7dc-4fe7-b065-64b02b2052af validation failed: DuplicateUserName.
+2020-01-05 15:30:15.6064|WARN|Microsoft.AspNetCore.Identity.UserManager|User 5df53a5b-8c67-4ba4-8983-bbc7a2f5aa1d validation failed: DuplicateUserName.
+2020-01-05 15:30:15.6321|WARN|Microsoft.AspNetCore.Identity.UserManager|User 9f06d737-868b-4259-9053-333f092d3424 validation failed: DuplicateUserName.
+2020-01-05 15:30:15.6543|WARN|Microsoft.AspNetCore.Identity.UserManager|User e051a59f-7955-4ccf-8a3e-ab183bc6d723 validation failed: DuplicateUserName.
+2020-01-05 15:30:15.6737|WARN|Microsoft.AspNetCore.Identity.UserManager|User 615bd5cd-ff46-48f5-97c5-447d3c47f567 validation failed: DuplicateUserName.
+2020-01-05 15:30:15.6962|WARN|Microsoft.AspNetCore.Identity.UserManager|User 366252ce-ab04-4e67-a7dc-80409e31a79e validation failed: DuplicateUserName.
+2020-01-05 15:30:15.7168|WARN|Microsoft.AspNetCore.Identity.UserManager|User 075984ef-e3f7-49e1-ad06-ba386065beaf validation failed: DuplicateUserName.
+2020-01-05 15:30:15.7312|WARN|Microsoft.AspNetCore.Identity.UserManager|User 9c0c6b9f-b7dc-4fe7-b065-64b02b2052af validation failed: DuplicateUserName.
+2020-01-05 15:30:15.7312|INFO|CodeSec.Program|Seeded the database.
+2020-01-05 15:30:21.2280|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 15:30:21.2280|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 15:33:17.2944|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 15:33:20.9028|WARN|Microsoft.AspNetCore.Identity.UserManager|User e4cb1e15-f663-4443-91ed-784eed766d3a validation failed: DuplicateUserName.
+2020-01-05 15:33:20.9382|WARN|Microsoft.AspNetCore.Identity.UserManager|User 6131e1d5-4cc7-433f-838f-cc80fe4d516e validation failed: DuplicateUserName.
+2020-01-05 15:33:20.9629|WARN|Microsoft.AspNetCore.Identity.UserManager|User ab87d47c-3813-4462-b8e9-e8ac42bd809d validation failed: DuplicateUserName.
+2020-01-05 15:33:20.9829|WARN|Microsoft.AspNetCore.Identity.UserManager|User 0438f928-2162-48c1-b15c-96a10d80262f validation failed: DuplicateUserName.
+2020-01-05 15:33:21.0058|WARN|Microsoft.AspNetCore.Identity.UserManager|User 45f6f36f-83ae-4b3e-b5c6-11534446e757 validation failed: DuplicateUserName.
+2020-01-05 15:33:21.0323|WARN|Microsoft.AspNetCore.Identity.UserManager|User de582eea-9689-4671-8df9-7061384b9446 validation failed: DuplicateUserName.
+2020-01-05 15:33:21.0593|WARN|Microsoft.AspNetCore.Identity.UserManager|User d4d0ee5c-2328-49dd-825c-1bbaabc5d08e validation failed: DuplicateUserName.
+2020-01-05 15:33:21.1594|WARN|Microsoft.AspNetCore.Identity.UserManager|User e4cb1e15-f663-4443-91ed-784eed766d3a validation failed: DuplicateUserName.
+2020-01-05 15:33:21.1747|WARN|Microsoft.AspNetCore.Identity.UserManager|User 6131e1d5-4cc7-433f-838f-cc80fe4d516e validation failed: DuplicateUserName.
+2020-01-05 15:33:21.1890|WARN|Microsoft.AspNetCore.Identity.UserManager|User ab87d47c-3813-4462-b8e9-e8ac42bd809d validation failed: DuplicateUserName.
+2020-01-05 15:33:21.2081|WARN|Microsoft.AspNetCore.Identity.UserManager|User 0438f928-2162-48c1-b15c-96a10d80262f validation failed: DuplicateUserName.
+2020-01-05 15:33:21.2261|WARN|Microsoft.AspNetCore.Identity.UserManager|User 45f6f36f-83ae-4b3e-b5c6-11534446e757 validation failed: DuplicateUserName.
+2020-01-05 15:33:21.2453|WARN|Microsoft.AspNetCore.Identity.UserManager|User de582eea-9689-4671-8df9-7061384b9446 validation failed: DuplicateUserName.
+2020-01-05 15:33:21.2628|WARN|Microsoft.AspNetCore.Identity.UserManager|User d4d0ee5c-2328-49dd-825c-1bbaabc5d08e validation failed: DuplicateUserName.
+2020-01-05 15:33:21.2628|INFO|CodeSec.Program|Seeded the database.
+2020-01-05 15:33:45.2384|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 15:33:45.2436|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 15:34:57.7802|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 15:34:59.2326|WARN|Microsoft.AspNetCore.Identity.UserManager|User cf703578-bdde-44f3-a15e-b4dc66641717 validation failed: DuplicateUserName.
+2020-01-05 15:34:59.2680|WARN|Microsoft.AspNetCore.Identity.UserManager|User bee58441-89b1-42f9-9ff1-1e286349ed46 validation failed: DuplicateUserName.
+2020-01-05 15:34:59.2859|WARN|Microsoft.AspNetCore.Identity.UserManager|User 516c3bbe-dcef-4a52-b121-0da735f1d083 validation failed: DuplicateUserName.
+2020-01-05 15:34:59.3051|WARN|Microsoft.AspNetCore.Identity.UserManager|User 410cf483-97ad-49ac-be09-bbaaa55dba88 validation failed: DuplicateUserName.
+2020-01-05 15:34:59.3262|WARN|Microsoft.AspNetCore.Identity.UserManager|User 93215aa3-c881-4c52-8b5f-d4b455286bfe validation failed: DuplicateUserName.
+2020-01-05 15:34:59.3451|WARN|Microsoft.AspNetCore.Identity.UserManager|User 02fdb43a-82a4-4d03-98b7-6e3a7ac0e0dd validation failed: DuplicateUserName.
+2020-01-05 15:34:59.3650|WARN|Microsoft.AspNetCore.Identity.UserManager|User 7fed81fe-cbf6-4eb4-af9e-45abcf4dc9f1 validation failed: DuplicateUserName.
+2020-01-05 15:34:59.4501|WARN|Microsoft.AspNetCore.Identity.UserManager|User cf703578-bdde-44f3-a15e-b4dc66641717 validation failed: DuplicateUserName.
+2020-01-05 15:34:59.4701|WARN|Microsoft.AspNetCore.Identity.UserManager|User bee58441-89b1-42f9-9ff1-1e286349ed46 validation failed: DuplicateUserName.
+2020-01-05 15:34:59.4858|WARN|Microsoft.AspNetCore.Identity.UserManager|User 516c3bbe-dcef-4a52-b121-0da735f1d083 validation failed: DuplicateUserName.
+2020-01-05 15:34:59.5004|WARN|Microsoft.AspNetCore.Identity.UserManager|User 410cf483-97ad-49ac-be09-bbaaa55dba88 validation failed: DuplicateUserName.
+2020-01-05 15:34:59.5153|WARN|Microsoft.AspNetCore.Identity.UserManager|User 93215aa3-c881-4c52-8b5f-d4b455286bfe validation failed: DuplicateUserName.
+2020-01-05 15:34:59.5317|WARN|Microsoft.AspNetCore.Identity.UserManager|User 02fdb43a-82a4-4d03-98b7-6e3a7ac0e0dd validation failed: DuplicateUserName.
+2020-01-05 15:34:59.5474|WARN|Microsoft.AspNetCore.Identity.UserManager|User 7fed81fe-cbf6-4eb4-af9e-45abcf4dc9f1 validation failed: DuplicateUserName.
+2020-01-05 15:34:59.5530|INFO|CodeSec.Program|Seeded the database.
+2020-01-05 15:35:27.8719|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 15:35:27.8719|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 15:36:25.3885|INFO|CodeSec.Controllers.ExecutiveEmployeeController|Sicknote created by user: Jakob, Type of sicknote: förkyld, IP
+2020-01-05 15:36:25.3885|INFO|CodeSec.Controllers.ExecutiveEmployeeController|Ny anmälning skapad: CfDJ8PlvaOAfcixCq2HtyEGj8YNQgrBTzdUevT-7cCHnUbmCWGTVu4i3tnfxNDA1yNkSJ4pnaDaeOYpJc53ufIVI0m4zeg1fUqdayRjZsmNH13BkXI4uW09Np-Ru171eh9AjTBGdqzZkBK9RwuMxa4YyxF68qEO0AxmasmVlE-dPFTep-iGqtDApeAJO0-JhAjIJfmvSydt7SKWszQUv8xK2t-wd8_HGIEZ8kEZfSOlDQsHX0IcSbRIpB0h5T1sC7mbuOA
+2020-01-05 15:36:35.1292|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 15:36:35.1331|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 15:37:10.3635|INFO|CodeSec.Controllers.ExecutiveEmployeeController|Sicknote created by user: Hannah, Type of sicknote: Vård av barn, IP
+2020-01-05 15:37:10.3722|INFO|CodeSec.Controllers.ExecutiveEmployeeController|Ny anmälning skapad: CfDJ8PlvaOAfcixCq2HtyEGj8YNwCbjE3fok9NnNdy0Ltih1sJlEt9AdZBChErxY2jHDZZVe_mEJ_-4ZHlXyKo6ylBymNccx9bY0800jAMfsHApJKncsbt8FJxGd3907L_G1m6eGkb3KiTYA21iyQRMb_JmuTPriU2KH-A1hRzDBJ7q2I1ZvU2i4ERFBJyTtyVxGITZ1YAF9YJFCtYdBthCpXUlSVWu0RXdCjsayTgQaYliw4-sBQmz0u70YhbjtJh7nXg
+2020-01-05 15:37:17.7074|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 15:37:17.7120|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 16:03:17.8107|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 16:03:22.3879|WARN|Microsoft.AspNetCore.Identity.UserManager|User eca61d74-d046-4cc6-b6c3-635ba31a3a28 validation failed: DuplicateUserName.
+2020-01-05 16:03:22.4271|WARN|Microsoft.AspNetCore.Identity.UserManager|User 43c7f142-aea8-4008-9589-416c28123d71 validation failed: DuplicateUserName.
+2020-01-05 16:03:22.4615|WARN|Microsoft.AspNetCore.Identity.UserManager|User 78e0e5d3-3b9b-4138-a56d-224c2281efa0 validation failed: DuplicateUserName.
+2020-01-05 16:03:22.4877|WARN|Microsoft.AspNetCore.Identity.UserManager|User 657866a8-a24b-46f9-8fd6-9f0742e9129d validation failed: DuplicateUserName.
+2020-01-05 16:03:22.5063|WARN|Microsoft.AspNetCore.Identity.UserManager|User 0a5273dd-5e4c-4cd8-8557-349628aa8f88 validation failed: DuplicateUserName.
+2020-01-05 16:03:22.5244|WARN|Microsoft.AspNetCore.Identity.UserManager|User f1c8cd13-bc82-48dd-8783-bca2d58b0afa validation failed: DuplicateUserName.
+2020-01-05 16:03:22.5435|WARN|Microsoft.AspNetCore.Identity.UserManager|User c19eac7e-6b8f-4e82-b2ed-ec86dee1a22d validation failed: DuplicateUserName.
+2020-01-05 16:03:22.6342|WARN|Microsoft.AspNetCore.Identity.UserManager|User eca61d74-d046-4cc6-b6c3-635ba31a3a28 validation failed: DuplicateUserName.
+2020-01-05 16:03:22.6537|WARN|Microsoft.AspNetCore.Identity.UserManager|User 43c7f142-aea8-4008-9589-416c28123d71 validation failed: DuplicateUserName.
+2020-01-05 16:03:22.6699|WARN|Microsoft.AspNetCore.Identity.UserManager|User 78e0e5d3-3b9b-4138-a56d-224c2281efa0 validation failed: DuplicateUserName.
+2020-01-05 16:03:22.6865|WARN|Microsoft.AspNetCore.Identity.UserManager|User 657866a8-a24b-46f9-8fd6-9f0742e9129d validation failed: DuplicateUserName.
+2020-01-05 16:03:22.7061|WARN|Microsoft.AspNetCore.Identity.UserManager|User 0a5273dd-5e4c-4cd8-8557-349628aa8f88 validation failed: DuplicateUserName.
+2020-01-05 16:03:22.7234|WARN|Microsoft.AspNetCore.Identity.UserManager|User f1c8cd13-bc82-48dd-8783-bca2d58b0afa validation failed: DuplicateUserName.
+2020-01-05 16:03:22.7382|WARN|Microsoft.AspNetCore.Identity.UserManager|User c19eac7e-6b8f-4e82-b2ed-ec86dee1a22d validation failed: DuplicateUserName.
+2020-01-05 16:03:22.7430|INFO|CodeSec.Program|Seeded the database.
+2020-01-05 16:03:31.9352|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 16:03:31.9352|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 16:03:55.0787|INFO|CodeSec.Controllers.ExecutiveEmployeeController|Ny anmälning skapad: CfDJ8PlvaOAfcixCq2HtyEGj8YMrZSsFp2JKmKOLIv0ydZH9LpvnkgdlmphInIPZ_WGq0Xv6qxm-5CpLzt4Iu-GyYME22rYUgvm98guTCU772SNROxWqBeq1Pv9-3KzrBI01umlfyQwxVHzC5Mh8mlr4cO91aSkuIPSnOVvKvn3dws8JI1ZMQyE3a5NNpubvRpjlG34IB5ZASwr4b2UVa_s2Fo9_v-bh7SK4RPFzUJj1yldyzucbeK9SEPts15gJTyXsjA
+2020-01-05 16:09:11.2032|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 16:09:12.7554|WARN|Microsoft.AspNetCore.Identity.UserManager|User 18fef2fe-7d00-42d0-9738-bb83b254a554 validation failed: DuplicateUserName.
+2020-01-05 16:09:12.7925|WARN|Microsoft.AspNetCore.Identity.UserManager|User 5afa2600-3cfb-4044-a412-c57751f24dad validation failed: DuplicateUserName.
+2020-01-05 16:09:12.8199|WARN|Microsoft.AspNetCore.Identity.UserManager|User 54b65ba0-1fd7-4f77-9512-ecb90787a5b1 validation failed: DuplicateUserName.
+2020-01-05 16:09:12.8460|WARN|Microsoft.AspNetCore.Identity.UserManager|User 49eee8d6-0aa9-4966-ac12-68b8e2cb86c3 validation failed: DuplicateUserName.
+2020-01-05 16:09:12.8632|WARN|Microsoft.AspNetCore.Identity.UserManager|User b3826ef9-dd7b-4b4a-bf34-cb4c8891f349 validation failed: DuplicateUserName.
+2020-01-05 16:09:12.8816|WARN|Microsoft.AspNetCore.Identity.UserManager|User 88e45c05-48d0-4cec-838d-eca687fa99ac validation failed: DuplicateUserName.
+2020-01-05 16:09:12.9005|WARN|Microsoft.AspNetCore.Identity.UserManager|User 8dd826df-7ce5-447c-bf3f-ffa3a22b6729 validation failed: DuplicateUserName.
+2020-01-05 16:09:12.9787|WARN|Microsoft.AspNetCore.Identity.UserManager|User 18fef2fe-7d00-42d0-9738-bb83b254a554 validation failed: DuplicateUserName.
+2020-01-05 16:09:12.9989|WARN|Microsoft.AspNetCore.Identity.UserManager|User 5afa2600-3cfb-4044-a412-c57751f24dad validation failed: DuplicateUserName.
+2020-01-05 16:09:13.0147|WARN|Microsoft.AspNetCore.Identity.UserManager|User 54b65ba0-1fd7-4f77-9512-ecb90787a5b1 validation failed: DuplicateUserName.
+2020-01-05 16:09:13.0301|WARN|Microsoft.AspNetCore.Identity.UserManager|User 49eee8d6-0aa9-4966-ac12-68b8e2cb86c3 validation failed: DuplicateUserName.
+2020-01-05 16:09:13.0471|WARN|Microsoft.AspNetCore.Identity.UserManager|User b3826ef9-dd7b-4b4a-bf34-cb4c8891f349 validation failed: DuplicateUserName.
+2020-01-05 16:09:13.0615|WARN|Microsoft.AspNetCore.Identity.UserManager|User 88e45c05-48d0-4cec-838d-eca687fa99ac validation failed: DuplicateUserName.
+2020-01-05 16:09:13.0744|WARN|Microsoft.AspNetCore.Identity.UserManager|User 8dd826df-7ce5-447c-bf3f-ffa3a22b6729 validation failed: DuplicateUserName.
+2020-01-05 16:09:13.0744|INFO|CodeSec.Program|Seeded the database.
+2020-01-05 16:09:18.2993|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 16:09:18.3033|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 16:09:35.1263|INFO|CodeSec.Controllers.ExecutiveEmployeeController|Ny anmälning skapad: CfDJ8PlvaOAfcixCq2HtyEGj8YMdjlOYpOFJh5E50qkETsQ-6nkobev-8586S2LkRKe9zqiWgRdrXhD5ga29x2WljdcXkWD3RvofMEVcN4PRoXpEGSd6ANPfJncWmGfRwZO-DdEKfse1lAUYILPEdklNHAlZF7Z87GrurrlI8IwP6pvlG2C_fNsAwqramMlzuNaIUo50rhvpWNRLnBXuNJnC9sXUJpHM0XQQqBMKRn3WvCYUTLexOST_YMKFrhkIdjtlFA
+2020-01-05 16:09:43.4843|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 16:09:43.4843|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 16:13:37.3214|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 16:13:39.1072|WARN|Microsoft.AspNetCore.Identity.UserManager|User d0ab0b5f-3c4b-4ce5-9e6e-3c8cd4a0611e validation failed: DuplicateUserName.
+2020-01-05 16:13:39.1519|WARN|Microsoft.AspNetCore.Identity.UserManager|User 193fe723-0401-4d9e-b969-6245d64f8c2f validation failed: DuplicateUserName.
+2020-01-05 16:13:39.1695|WARN|Microsoft.AspNetCore.Identity.UserManager|User a51fe9a4-a6a8-465c-80c1-ad6e72b341e2 validation failed: DuplicateUserName.
+2020-01-05 16:13:39.1926|WARN|Microsoft.AspNetCore.Identity.UserManager|User 2651b9e8-a8db-474c-be06-438384ce8445 validation failed: DuplicateUserName.
+2020-01-05 16:13:39.2152|WARN|Microsoft.AspNetCore.Identity.UserManager|User d0d3f406-fb2d-4fe2-8e72-9b3b72c458a3 validation failed: DuplicateUserName.
+2020-01-05 16:13:39.2366|WARN|Microsoft.AspNetCore.Identity.UserManager|User 2ce72f52-e737-408a-8236-7e51ba8d3a3e validation failed: DuplicateUserName.
+2020-01-05 16:13:39.2623|WARN|Microsoft.AspNetCore.Identity.UserManager|User 09e92188-3dbc-447c-936a-e317c2f9407f validation failed: DuplicateUserName.
+2020-01-05 16:13:39.3464|WARN|Microsoft.AspNetCore.Identity.UserManager|User d0ab0b5f-3c4b-4ce5-9e6e-3c8cd4a0611e validation failed: DuplicateUserName.
+2020-01-05 16:13:39.3678|WARN|Microsoft.AspNetCore.Identity.UserManager|User 193fe723-0401-4d9e-b969-6245d64f8c2f validation failed: DuplicateUserName.
+2020-01-05 16:13:39.3826|WARN|Microsoft.AspNetCore.Identity.UserManager|User a51fe9a4-a6a8-465c-80c1-ad6e72b341e2 validation failed: DuplicateUserName.
+2020-01-05 16:13:39.3976|WARN|Microsoft.AspNetCore.Identity.UserManager|User 2651b9e8-a8db-474c-be06-438384ce8445 validation failed: DuplicateUserName.
+2020-01-05 16:13:39.3976|WARN|Microsoft.AspNetCore.Identity.UserManager|User d0d3f406-fb2d-4fe2-8e72-9b3b72c458a3 validation failed: DuplicateUserName.
+2020-01-05 16:13:39.4257|WARN|Microsoft.AspNetCore.Identity.UserManager|User 2ce72f52-e737-408a-8236-7e51ba8d3a3e validation failed: DuplicateUserName.
+2020-01-05 16:13:39.4401|WARN|Microsoft.AspNetCore.Identity.UserManager|User 09e92188-3dbc-447c-936a-e317c2f9407f validation failed: DuplicateUserName.
+2020-01-05 16:13:39.4477|INFO|CodeSec.Program|Seeded the database.
+2020-01-05 16:13:46.5155|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 16:13:46.5155|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 16:14:13.7001|INFO|CodeSec.Controllers.ExecutiveEmployeeController|Ny anmälning skapad: CfDJ8PlvaOAfcixCq2HtyEGj8YON9EFRt8JscFBb-EJTaKztUhyNPVgjMNq2S9Hhx5fA0-QLc-ZIRnvxNDVJdDLOblTuH1Ib1Ow2Ft6aXFyGbKHWaig2T56EFdlD-bxLXZhGEQKaiwoAEfyZbrr1LFnDuZ_0fbJPMjjEIOIEfQngMCJJhi5_XdnZxb0kOi9yIDpHSBIG0dVDDuCf4Et4Nl5XYBmpJQPhnIq8JVlv3Xv6tiBLNIrWPH02xmxBWRqubXIXfQ
+2020-01-05 16:14:29.2660|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 16:14:29.2739|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 16:16:31.6483|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 16:16:33.1578|WARN|Microsoft.AspNetCore.Identity.UserManager|User 908caf04-e84e-44ad-b1b4-6383011bcb3b validation failed: DuplicateUserName.
+2020-01-05 16:16:33.1973|WARN|Microsoft.AspNetCore.Identity.UserManager|User ad682df8-31ea-4df6-bb6d-f1c16358ac91 validation failed: DuplicateUserName.
+2020-01-05 16:16:33.2171|WARN|Microsoft.AspNetCore.Identity.UserManager|User a3c4b947-1ebc-4407-a8d5-64e50e8bbd39 validation failed: DuplicateUserName.
+2020-01-05 16:16:33.2362|WARN|Microsoft.AspNetCore.Identity.UserManager|User 95e76cce-891e-4642-bbf0-6a03a1fbb481 validation failed: DuplicateUserName.
+2020-01-05 16:16:33.2561|WARN|Microsoft.AspNetCore.Identity.UserManager|User 44770ad8-c1c1-4b8a-b201-7087e2c875f7 validation failed: DuplicateUserName.
+2020-01-05 16:16:33.2757|WARN|Microsoft.AspNetCore.Identity.UserManager|User 34416093-9182-491c-b626-6aa9c6efe5e1 validation failed: DuplicateUserName.
+2020-01-05 16:16:33.3008|WARN|Microsoft.AspNetCore.Identity.UserManager|User b14f7c6e-6021-4f0c-99f9-78ac34e99f4e validation failed: DuplicateUserName.
+2020-01-05 16:16:33.3961|WARN|Microsoft.AspNetCore.Identity.UserManager|User 908caf04-e84e-44ad-b1b4-6383011bcb3b validation failed: DuplicateUserName.
+2020-01-05 16:16:33.4166|WARN|Microsoft.AspNetCore.Identity.UserManager|User ad682df8-31ea-4df6-bb6d-f1c16358ac91 validation failed: DuplicateUserName.
+2020-01-05 16:16:33.4317|WARN|Microsoft.AspNetCore.Identity.UserManager|User a3c4b947-1ebc-4407-a8d5-64e50e8bbd39 validation failed: DuplicateUserName.
+2020-01-05 16:16:33.4464|WARN|Microsoft.AspNetCore.Identity.UserManager|User 95e76cce-891e-4642-bbf0-6a03a1fbb481 validation failed: DuplicateUserName.
+2020-01-05 16:16:33.4620|WARN|Microsoft.AspNetCore.Identity.UserManager|User 44770ad8-c1c1-4b8a-b201-7087e2c875f7 validation failed: DuplicateUserName.
+2020-01-05 16:16:33.4760|WARN|Microsoft.AspNetCore.Identity.UserManager|User 34416093-9182-491c-b626-6aa9c6efe5e1 validation failed: DuplicateUserName.
+2020-01-05 16:16:33.4760|WARN|Microsoft.AspNetCore.Identity.UserManager|User b14f7c6e-6021-4f0c-99f9-78ac34e99f4e validation failed: DuplicateUserName.
+2020-01-05 16:16:33.4943|INFO|CodeSec.Program|Seeded the database.
+2020-01-05 16:16:41.9645|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 16:16:41.9645|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 16:17:03.8831|INFO|CodeSec.Controllers.ExecutiveEmployeeController|Ny anmälning skapad: CfDJ8PlvaOAfcixCq2HtyEGj8YPATQl8KGU9aSmQjPwi1PBzMOpchUBb33yPco2N9-ucBkCsUXq04_oCGOoyYlGwY1b5LeVNAcvVGhdY-HiiQT0H_hkuqhAEXc4ChB7nNedXd5knRm_Bd_s-Foq9bf7WDgN3jArab-5kk8fgaQBWxg3MZjzAY_2HqX4Ff4FqrIwJmGCeuuolH4V3FG_yAY-AjRon2KvLDWNYU-KXdM6VQ4gHPOtplTR6Vl6yhsfbN6HNYg
+2020-01-05 16:18:04.5070|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 16:18:05.9537|WARN|Microsoft.AspNetCore.Identity.UserManager|User 74b70ae7-ed7a-40ac-87c1-7176558529cb validation failed: DuplicateUserName.
+2020-01-05 16:18:05.9887|WARN|Microsoft.AspNetCore.Identity.UserManager|User 64e028ea-d8f7-4932-bef4-f58fd5120c3b validation failed: DuplicateUserName.
+2020-01-05 16:18:06.0068|WARN|Microsoft.AspNetCore.Identity.UserManager|User 77c78518-2674-4b7f-bf76-9434c495f3eb validation failed: DuplicateUserName.
+2020-01-05 16:18:06.0240|WARN|Microsoft.AspNetCore.Identity.UserManager|User 4cc22bae-a668-4b37-b803-0c0f32e9b46d validation failed: DuplicateUserName.
+2020-01-05 16:18:06.0419|WARN|Microsoft.AspNetCore.Identity.UserManager|User 88d77c3f-39f9-48f1-8054-e5d5731b71f8 validation failed: DuplicateUserName.
+2020-01-05 16:18:06.0592|WARN|Microsoft.AspNetCore.Identity.UserManager|User 1180123c-deb3-4b38-bba1-06d4be516db6 validation failed: DuplicateUserName.
+2020-01-05 16:18:06.0791|WARN|Microsoft.AspNetCore.Identity.UserManager|User c1d76105-a3a5-4bcc-8e23-65f7ce343b31 validation failed: DuplicateUserName.
+2020-01-05 16:18:06.1771|WARN|Microsoft.AspNetCore.Identity.UserManager|User 74b70ae7-ed7a-40ac-87c1-7176558529cb validation failed: DuplicateUserName.
+2020-01-05 16:18:06.1933|WARN|Microsoft.AspNetCore.Identity.UserManager|User 64e028ea-d8f7-4932-bef4-f58fd5120c3b validation failed: DuplicateUserName.
+2020-01-05 16:18:06.2072|WARN|Microsoft.AspNetCore.Identity.UserManager|User 77c78518-2674-4b7f-bf76-9434c495f3eb validation failed: DuplicateUserName.
+2020-01-05 16:18:06.2223|WARN|Microsoft.AspNetCore.Identity.UserManager|User 4cc22bae-a668-4b37-b803-0c0f32e9b46d validation failed: DuplicateUserName.
+2020-01-05 16:18:06.2361|WARN|Microsoft.AspNetCore.Identity.UserManager|User 88d77c3f-39f9-48f1-8054-e5d5731b71f8 validation failed: DuplicateUserName.
+2020-01-05 16:18:06.2493|WARN|Microsoft.AspNetCore.Identity.UserManager|User 1180123c-deb3-4b38-bba1-06d4be516db6 validation failed: DuplicateUserName.
+2020-01-05 16:18:06.2642|WARN|Microsoft.AspNetCore.Identity.UserManager|User c1d76105-a3a5-4bcc-8e23-65f7ce343b31 validation failed: DuplicateUserName.
+2020-01-05 16:18:06.2642|INFO|CodeSec.Program|Seeded the database.
+2020-01-05 16:18:11.7948|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 16:18:11.7948|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 16:18:25.5906|INFO|CodeSec.Controllers.ExecutiveEmployeeController|Ny anmälning skapad: CfDJ8PlvaOAfcixCq2HtyEGj8YNd2aZ1Rth2jKT5SGkymdcwY6vxu0DBCcZjkUKBkDSjmkguKtV2Pvog3i79NXgK4YEfTBJh0B9PvskTGprUMRk9xYRb_EioPUcIJBnRYZjWqX2XetSOx8oDH6jmFX-1XH-XrE6NqBJrIseoeTkD49zVM_Z5zNCgP7WnlPy9CTUNVSvMY9FJiZsLIE2JRY4-0JdWSxV78uWLkacF-8VFAJ9f
+2020-01-05 16:18:54.0772|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 16:18:55.5369|WARN|Microsoft.AspNetCore.Identity.UserManager|User 4047e4c4-b2ca-4faa-9e81-1e6d1b11ac09 validation failed: DuplicateUserName.
+2020-01-05 16:18:55.5705|WARN|Microsoft.AspNetCore.Identity.UserManager|User d980d721-0885-4363-b96a-3a3a64fde6ff validation failed: DuplicateUserName.
+2020-01-05 16:18:55.5912|WARN|Microsoft.AspNetCore.Identity.UserManager|User 6d739744-1100-4b7e-bb03-028f5b59fa33 validation failed: DuplicateUserName.
+2020-01-05 16:18:55.6099|WARN|Microsoft.AspNetCore.Identity.UserManager|User 460db0d2-6bcc-4484-a218-eea9454ebab6 validation failed: DuplicateUserName.
+2020-01-05 16:18:55.6280|WARN|Microsoft.AspNetCore.Identity.UserManager|User 44ecc23e-4215-48df-822d-943c40dd7d3b validation failed: DuplicateUserName.
+2020-01-05 16:18:55.6455|WARN|Microsoft.AspNetCore.Identity.UserManager|User 0c580537-4632-445c-8fdf-a1bef4a96f1b validation failed: DuplicateUserName.
+2020-01-05 16:18:55.6657|WARN|Microsoft.AspNetCore.Identity.UserManager|User fb583f80-7daf-40db-b4f1-87da75aadb7d validation failed: DuplicateUserName.
+2020-01-05 16:18:55.7829|WARN|Microsoft.AspNetCore.Identity.UserManager|User 4047e4c4-b2ca-4faa-9e81-1e6d1b11ac09 validation failed: DuplicateUserName.
+2020-01-05 16:18:55.8129|WARN|Microsoft.AspNetCore.Identity.UserManager|User d980d721-0885-4363-b96a-3a3a64fde6ff validation failed: DuplicateUserName.
+2020-01-05 16:18:55.8361|WARN|Microsoft.AspNetCore.Identity.UserManager|User 6d739744-1100-4b7e-bb03-028f5b59fa33 validation failed: DuplicateUserName.
+2020-01-05 16:18:55.8557|WARN|Microsoft.AspNetCore.Identity.UserManager|User 460db0d2-6bcc-4484-a218-eea9454ebab6 validation failed: DuplicateUserName.
+2020-01-05 16:18:55.8723|WARN|Microsoft.AspNetCore.Identity.UserManager|User 44ecc23e-4215-48df-822d-943c40dd7d3b validation failed: DuplicateUserName.
+2020-01-05 16:18:55.8874|WARN|Microsoft.AspNetCore.Identity.UserManager|User 0c580537-4632-445c-8fdf-a1bef4a96f1b validation failed: DuplicateUserName.
+2020-01-05 16:18:55.9018|WARN|Microsoft.AspNetCore.Identity.UserManager|User fb583f80-7daf-40db-b4f1-87da75aadb7d validation failed: DuplicateUserName.
+2020-01-05 16:18:55.9018|INFO|CodeSec.Program|Seeded the database.
+2020-01-05 16:19:01.5564|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 16:19:01.5564|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 16:19:23.4683|INFO|CodeSec.Controllers.ExecutiveEmployeeController|Ny anmälning skapad: CfDJ8PlvaOAfcixCq2HtyEGj8YMig9267_9At-DOoZOs2D_NV0hiBVuLiw5Qul3CgTg2vpIktsbCmY8CWRgIDB-LEXEiG8LZ2IYUsywOU1fneYlkgFQltdeb-fJ5NMK9EKjoCePPtPPmPTOOdfdZnCX8FUSxNZ1ELnNpv4vbArLJ9iOZmK6INS3YlwneLlw83CCRsKb9q7YQKIwkHYGLkytf9I2UehSOuT6XJSFYNWzXSgsi2kR-qv_jPr7tJsJrh5JaRg
+2020-01-05 16:19:35.4779|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 16:19:35.4779|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 16:21:03.5942|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 16:21:06.2832|WARN|Microsoft.AspNetCore.Identity.UserManager|User 02c960d2-ba4d-4a99-871f-6586de9552d4 validation failed: DuplicateUserName.
+2020-01-05 16:21:06.3253|WARN|Microsoft.AspNetCore.Identity.UserManager|User ef3e220e-3461-4ea7-ba51-d43ecc3c1ad2 validation failed: DuplicateUserName.
+2020-01-05 16:21:06.3567|WARN|Microsoft.AspNetCore.Identity.UserManager|User b8c916b5-55dd-466a-b90f-ca051c62b1ad validation failed: DuplicateUserName.
+2020-01-05 16:21:06.3803|WARN|Microsoft.AspNetCore.Identity.UserManager|User 30dfe0d0-1835-4058-a695-e5fc2e75ca04 validation failed: DuplicateUserName.
+2020-01-05 16:21:06.4024|WARN|Microsoft.AspNetCore.Identity.UserManager|User 74f10372-58d4-4323-b418-c6cf8789917a validation failed: DuplicateUserName.
+2020-01-05 16:21:06.4263|WARN|Microsoft.AspNetCore.Identity.UserManager|User 7fd68eb8-8876-4259-900b-f561f75adcb8 validation failed: DuplicateUserName.
+2020-01-05 16:21:06.4514|WARN|Microsoft.AspNetCore.Identity.UserManager|User ac5badfe-4cd2-404c-9499-687c46a8c33c validation failed: DuplicateUserName.
+2020-01-05 16:21:06.5653|WARN|Microsoft.AspNetCore.Identity.UserManager|User 02c960d2-ba4d-4a99-871f-6586de9552d4 validation failed: DuplicateUserName.
+2020-01-05 16:21:06.5840|WARN|Microsoft.AspNetCore.Identity.UserManager|User ef3e220e-3461-4ea7-ba51-d43ecc3c1ad2 validation failed: DuplicateUserName.
+2020-01-05 16:21:06.6043|WARN|Microsoft.AspNetCore.Identity.UserManager|User b8c916b5-55dd-466a-b90f-ca051c62b1ad validation failed: DuplicateUserName.
+2020-01-05 16:21:06.6279|WARN|Microsoft.AspNetCore.Identity.UserManager|User 30dfe0d0-1835-4058-a695-e5fc2e75ca04 validation failed: DuplicateUserName.
+2020-01-05 16:21:06.6475|WARN|Microsoft.AspNetCore.Identity.UserManager|User 74f10372-58d4-4323-b418-c6cf8789917a validation failed: DuplicateUserName.
+2020-01-05 16:21:06.6704|WARN|Microsoft.AspNetCore.Identity.UserManager|User 7fd68eb8-8876-4259-900b-f561f75adcb8 validation failed: DuplicateUserName.
+2020-01-05 16:21:06.6928|WARN|Microsoft.AspNetCore.Identity.UserManager|User ac5badfe-4cd2-404c-9499-687c46a8c33c validation failed: DuplicateUserName.
+2020-01-05 16:21:06.6980|INFO|CodeSec.Program|Seeded the database.
+2020-01-05 16:21:11.2457|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 16:21:11.2457|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:19:27.3974|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 20:19:33.1737|WARN|Microsoft.AspNetCore.Identity.UserManager|User 82d8aa70-b914-4190-9237-d19b2d57c6c7 validation failed: DuplicateUserName.
+2020-01-05 20:19:33.2079|WARN|Microsoft.AspNetCore.Identity.UserManager|User 55dc9328-f939-4621-80fa-357946c73535 validation failed: DuplicateUserName.
+2020-01-05 20:19:33.2262|WARN|Microsoft.AspNetCore.Identity.UserManager|User 7c27178a-4910-49f7-8dff-d0343767555a validation failed: DuplicateUserName.
+2020-01-05 20:19:33.2455|WARN|Microsoft.AspNetCore.Identity.UserManager|User 0057a991-9ee9-43c8-96b4-0789b942ddd2 validation failed: DuplicateUserName.
+2020-01-05 20:19:33.2652|WARN|Microsoft.AspNetCore.Identity.UserManager|User 1dea1056-7f73-4ffc-8809-7fcfaa8a685f validation failed: DuplicateUserName.
+2020-01-05 20:19:33.2829|WARN|Microsoft.AspNetCore.Identity.UserManager|User f74011db-753d-42b6-83ce-0b49da3c5dac validation failed: DuplicateUserName.
+2020-01-05 20:19:33.3030|WARN|Microsoft.AspNetCore.Identity.UserManager|User 608979e6-cd5c-496f-a909-21742ab1ab4d validation failed: DuplicateUserName.
+2020-01-05 20:19:33.3863|WARN|Microsoft.AspNetCore.Identity.UserManager|User 82d8aa70-b914-4190-9237-d19b2d57c6c7 validation failed: DuplicateUserName.
+2020-01-05 20:19:33.4037|WARN|Microsoft.AspNetCore.Identity.UserManager|User 55dc9328-f939-4621-80fa-357946c73535 validation failed: DuplicateUserName.
+2020-01-05 20:19:33.4177|WARN|Microsoft.AspNetCore.Identity.UserManager|User 7c27178a-4910-49f7-8dff-d0343767555a validation failed: DuplicateUserName.
+2020-01-05 20:19:33.4327|WARN|Microsoft.AspNetCore.Identity.UserManager|User 0057a991-9ee9-43c8-96b4-0789b942ddd2 validation failed: DuplicateUserName.
+2020-01-05 20:19:33.4469|WARN|Microsoft.AspNetCore.Identity.UserManager|User 1dea1056-7f73-4ffc-8809-7fcfaa8a685f validation failed: DuplicateUserName.
+2020-01-05 20:19:33.4602|WARN|Microsoft.AspNetCore.Identity.UserManager|User f74011db-753d-42b6-83ce-0b49da3c5dac validation failed: DuplicateUserName.
+2020-01-05 20:19:33.4602|WARN|Microsoft.AspNetCore.Identity.UserManager|User 608979e6-cd5c-496f-a909-21742ab1ab4d validation failed: DuplicateUserName.
+2020-01-05 20:19:33.4780|INFO|CodeSec.Program|Seeded the database.
+2020-01-05 20:20:00.4014|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:20:00.4014|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:20:31.4778|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:20:31.4778|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:21:10.2462|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:21:10.2462|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:21:15.3232|ERROR|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|The view 'CrimeRegularEmployee' was not found. Searched locations: /Views/RegularEmployee/CrimeRegularEmployee.cshtml, /Views/Shared/CrimeRegularEmployee.cshtml, /Pages/Shared/CrimeRegularEmployee.cshtml
+2020-01-05 20:21:15.6170|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2020-01-05 20:39:42.5640|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 20:39:45.4119|WARN|Microsoft.AspNetCore.Identity.UserManager|User 9ccecb38-6254-4337-b3e5-66e2da22d4ca validation failed: DuplicateUserName.
+2020-01-05 20:39:45.4516|WARN|Microsoft.AspNetCore.Identity.UserManager|User 0af34ae4-1ca7-45f1-a9d7-f9e8d64e3370 validation failed: DuplicateUserName.
+2020-01-05 20:39:45.4740|WARN|Microsoft.AspNetCore.Identity.UserManager|User 255abb67-9705-4681-9933-998d05cc14a0 validation failed: DuplicateUserName.
+2020-01-05 20:39:45.4941|WARN|Microsoft.AspNetCore.Identity.UserManager|User 370a7cd1-b2ea-4857-af5f-bc873783c185 validation failed: DuplicateUserName.
+2020-01-05 20:39:45.5142|WARN|Microsoft.AspNetCore.Identity.UserManager|User 20a36eae-bbb0-434b-b03d-3807c9dd4c55 validation failed: DuplicateUserName.
+2020-01-05 20:39:45.5360|WARN|Microsoft.AspNetCore.Identity.UserManager|User 3d529e2f-5f03-4e8e-b612-18e57bf4bfeb validation failed: DuplicateUserName.
+2020-01-05 20:39:45.5568|WARN|Microsoft.AspNetCore.Identity.UserManager|User db8d22e1-bd65-4e20-a620-2c0d551a57fd validation failed: DuplicateUserName.
+2020-01-05 20:39:45.6605|WARN|Microsoft.AspNetCore.Identity.UserManager|User 9ccecb38-6254-4337-b3e5-66e2da22d4ca validation failed: DuplicateUserName.
+2020-01-05 20:39:45.6804|WARN|Microsoft.AspNetCore.Identity.UserManager|User 0af34ae4-1ca7-45f1-a9d7-f9e8d64e3370 validation failed: DuplicateUserName.
+2020-01-05 20:39:45.6941|WARN|Microsoft.AspNetCore.Identity.UserManager|User 255abb67-9705-4681-9933-998d05cc14a0 validation failed: DuplicateUserName.
+2020-01-05 20:39:45.6941|WARN|Microsoft.AspNetCore.Identity.UserManager|User 370a7cd1-b2ea-4857-af5f-bc873783c185 validation failed: DuplicateUserName.
+2020-01-05 20:39:45.7210|WARN|Microsoft.AspNetCore.Identity.UserManager|User 20a36eae-bbb0-434b-b03d-3807c9dd4c55 validation failed: DuplicateUserName.
+2020-01-05 20:39:45.7351|WARN|Microsoft.AspNetCore.Identity.UserManager|User 3d529e2f-5f03-4e8e-b612-18e57bf4bfeb validation failed: DuplicateUserName.
+2020-01-05 20:39:45.7520|WARN|Microsoft.AspNetCore.Identity.UserManager|User db8d22e1-bd65-4e20-a620-2c0d551a57fd validation failed: DuplicateUserName.
+2020-01-05 20:39:45.7579|INFO|CodeSec.Program|Seeded the database.
+2020-01-05 20:39:53.2997|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:39:53.3042|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:40:10.8257|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:40:10.8257|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:40:32.5611|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:40:32.5686|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:40:46.7421|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2020-01-05 20:42:11.3572|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 20:42:12.8244|WARN|Microsoft.AspNetCore.Identity.UserManager|User 019e780c-1b06-4b6c-a7a1-61d6033da7b7 validation failed: DuplicateUserName.
+2020-01-05 20:42:12.8600|WARN|Microsoft.AspNetCore.Identity.UserManager|User 2bc515de-2331-4b9f-bfed-b9432651c793 validation failed: DuplicateUserName.
+2020-01-05 20:42:12.8834|WARN|Microsoft.AspNetCore.Identity.UserManager|User f6ad030a-323a-4de1-b469-f04398835194 validation failed: DuplicateUserName.
+2020-01-05 20:42:12.9018|WARN|Microsoft.AspNetCore.Identity.UserManager|User 095661fd-9cb3-4038-b15f-7cd81c21634a validation failed: DuplicateUserName.
+2020-01-05 20:42:12.9214|WARN|Microsoft.AspNetCore.Identity.UserManager|User c9e04ab6-e8ae-499a-a4be-eb74779509e3 validation failed: DuplicateUserName.
+2020-01-05 20:42:12.9412|WARN|Microsoft.AspNetCore.Identity.UserManager|User 9fb23cb1-f67d-42f2-a268-d053567daa80 validation failed: DuplicateUserName.
+2020-01-05 20:42:12.9599|WARN|Microsoft.AspNetCore.Identity.UserManager|User 66d84c92-f405-4461-89d5-e33bbd6cc41f validation failed: DuplicateUserName.
+2020-01-05 20:42:13.0427|WARN|Microsoft.AspNetCore.Identity.UserManager|User 019e780c-1b06-4b6c-a7a1-61d6033da7b7 validation failed: DuplicateUserName.
+2020-01-05 20:42:13.0620|WARN|Microsoft.AspNetCore.Identity.UserManager|User 2bc515de-2331-4b9f-bfed-b9432651c793 validation failed: DuplicateUserName.
+2020-01-05 20:42:13.0763|WARN|Microsoft.AspNetCore.Identity.UserManager|User f6ad030a-323a-4de1-b469-f04398835194 validation failed: DuplicateUserName.
+2020-01-05 20:42:13.0911|WARN|Microsoft.AspNetCore.Identity.UserManager|User 095661fd-9cb3-4038-b15f-7cd81c21634a validation failed: DuplicateUserName.
+2020-01-05 20:42:13.1091|WARN|Microsoft.AspNetCore.Identity.UserManager|User c9e04ab6-e8ae-499a-a4be-eb74779509e3 validation failed: DuplicateUserName.
+2020-01-05 20:42:13.1263|WARN|Microsoft.AspNetCore.Identity.UserManager|User 9fb23cb1-f67d-42f2-a268-d053567daa80 validation failed: DuplicateUserName.
+2020-01-05 20:42:13.1387|WARN|Microsoft.AspNetCore.Identity.UserManager|User 66d84c92-f405-4461-89d5-e33bbd6cc41f validation failed: DuplicateUserName.
+2020-01-05 20:42:13.1387|INFO|CodeSec.Program|Seeded the database.
+2020-01-05 20:42:20.1734|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:42:20.1734|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:42:33.6476|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:42:33.6476|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:42:46.9191|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:42:46.9191|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:43:02.8884|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:43:02.8884|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:43:32.8154|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:43:32.8190|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:44:01.6451|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:44:01.6495|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:44:08.2342|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:44:08.2342|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:44:22.3958|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:44:22.4000|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:54:51.9213|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 20:54:55.9716|WARN|Microsoft.AspNetCore.Identity.UserManager|User 99e1e0c4-1805-4abb-b2f5-54a91a75ea36 validation failed: DuplicateUserName.
+2020-01-05 20:54:56.0073|WARN|Microsoft.AspNetCore.Identity.UserManager|User 92e07a3a-5740-4774-9ee0-5e7e5a39a285 validation failed: DuplicateUserName.
+2020-01-05 20:54:56.0257|WARN|Microsoft.AspNetCore.Identity.UserManager|User 50b83206-b4e4-44eb-820a-4bbdeb8e6594 validation failed: DuplicateUserName.
+2020-01-05 20:54:56.0432|WARN|Microsoft.AspNetCore.Identity.UserManager|User 0e13b01c-563d-4053-aab1-c3b924305634 validation failed: DuplicateUserName.
+2020-01-05 20:54:56.0612|WARN|Microsoft.AspNetCore.Identity.UserManager|User 80726259-e872-4c99-a1d9-9bb0ecde5dc6 validation failed: DuplicateUserName.
+2020-01-05 20:54:56.0788|WARN|Microsoft.AspNetCore.Identity.UserManager|User 193e4ee9-59a5-40df-a484-046e8b0a166e validation failed: DuplicateUserName.
+2020-01-05 20:54:56.0979|WARN|Microsoft.AspNetCore.Identity.UserManager|User 6b727461-32c8-420b-a9d5-e33179721889 validation failed: DuplicateUserName.
+2020-01-05 20:54:56.1775|WARN|Microsoft.AspNetCore.Identity.UserManager|User 99e1e0c4-1805-4abb-b2f5-54a91a75ea36 validation failed: DuplicateUserName.
+2020-01-05 20:54:56.1967|WARN|Microsoft.AspNetCore.Identity.UserManager|User 92e07a3a-5740-4774-9ee0-5e7e5a39a285 validation failed: DuplicateUserName.
+2020-01-05 20:54:56.2102|WARN|Microsoft.AspNetCore.Identity.UserManager|User 50b83206-b4e4-44eb-820a-4bbdeb8e6594 validation failed: DuplicateUserName.
+2020-01-05 20:54:56.2102|WARN|Microsoft.AspNetCore.Identity.UserManager|User 0e13b01c-563d-4053-aab1-c3b924305634 validation failed: DuplicateUserName.
+2020-01-05 20:54:56.2351|WARN|Microsoft.AspNetCore.Identity.UserManager|User 80726259-e872-4c99-a1d9-9bb0ecde5dc6 validation failed: DuplicateUserName.
+2020-01-05 20:54:56.2468|WARN|Microsoft.AspNetCore.Identity.UserManager|User 193e4ee9-59a5-40df-a484-046e8b0a166e validation failed: DuplicateUserName.
+2020-01-05 20:54:56.2591|WARN|Microsoft.AspNetCore.Identity.UserManager|User 6b727461-32c8-420b-a9d5-e33179721889 validation failed: DuplicateUserName.
+2020-01-05 20:54:56.2591|INFO|CodeSec.Program|Seeded the database.
+2020-01-05 20:55:04.7516|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:55:04.7516|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:55:11.0473|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:55:11.0473|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:55:35.0839|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:55:35.0839|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:55:41.1589|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:55:41.1635|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:56:27.5509|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:56:27.5599|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:56:36.4075|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:56:36.4075|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:56:46.5265|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:56:46.5265|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:58:25.8741|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 20:58:25.8741|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 21:04:45.6929|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 21:04:49.2974|WARN|Microsoft.AspNetCore.Identity.UserManager|User bb3f40c1-744f-4e95-9ae9-7051c6b6d49b validation failed: DuplicateUserName.
+2020-01-05 21:04:49.3329|WARN|Microsoft.AspNetCore.Identity.UserManager|User f4a3cb6e-39ab-43d4-bc50-228a3e4cc98d validation failed: DuplicateUserName.
+2020-01-05 21:04:49.3512|WARN|Microsoft.AspNetCore.Identity.UserManager|User 21143eb4-3f7c-41d2-87b1-e422e0495cc8 validation failed: DuplicateUserName.
+2020-01-05 21:04:49.3689|WARN|Microsoft.AspNetCore.Identity.UserManager|User f631af67-7e28-4d40-9e3a-af27d68abf0b validation failed: DuplicateUserName.
+2020-01-05 21:04:49.3862|WARN|Microsoft.AspNetCore.Identity.UserManager|User 91b563a1-aa32-471d-9200-3cc9a6568c80 validation failed: DuplicateUserName.
+2020-01-05 21:04:49.4080|WARN|Microsoft.AspNetCore.Identity.UserManager|User dc0d333d-0f7e-4a93-b2a0-2266be2e7c39 validation failed: DuplicateUserName.
+2020-01-05 21:04:49.4268|WARN|Microsoft.AspNetCore.Identity.UserManager|User f91d00c3-86cd-4980-98a2-beb6f972b6f4 validation failed: DuplicateUserName.
+2020-01-05 21:04:49.5025|WARN|Microsoft.AspNetCore.Identity.UserManager|User bb3f40c1-744f-4e95-9ae9-7051c6b6d49b validation failed: DuplicateUserName.
+2020-01-05 21:04:49.5181|WARN|Microsoft.AspNetCore.Identity.UserManager|User f4a3cb6e-39ab-43d4-bc50-228a3e4cc98d validation failed: DuplicateUserName.
+2020-01-05 21:04:49.5299|WARN|Microsoft.AspNetCore.Identity.UserManager|User 21143eb4-3f7c-41d2-87b1-e422e0495cc8 validation failed: DuplicateUserName.
+2020-01-05 21:04:49.5419|WARN|Microsoft.AspNetCore.Identity.UserManager|User f631af67-7e28-4d40-9e3a-af27d68abf0b validation failed: DuplicateUserName.
+2020-01-05 21:04:49.5549|WARN|Microsoft.AspNetCore.Identity.UserManager|User 91b563a1-aa32-471d-9200-3cc9a6568c80 validation failed: DuplicateUserName.
+2020-01-05 21:04:49.5549|WARN|Microsoft.AspNetCore.Identity.UserManager|User dc0d333d-0f7e-4a93-b2a0-2266be2e7c39 validation failed: DuplicateUserName.
+2020-01-05 21:04:49.5797|WARN|Microsoft.AspNetCore.Identity.UserManager|User f91d00c3-86cd-4980-98a2-beb6f972b6f4 validation failed: DuplicateUserName.
+2020-01-05 21:04:49.5797|INFO|CodeSec.Program|Seeded the database.
+2020-01-05 21:04:57.5347|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 21:04:57.5385|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 21:05:17.3876|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 21:05:17.3876|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 21:05:56.5795|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 21:05:56.5858|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 21:13:37.8052|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 21:13:40.3995|WARN|Microsoft.AspNetCore.Identity.UserManager|User 6707d183-2f7a-4d0d-87e3-6da583f3a6e0 validation failed: DuplicateUserName.
+2020-01-05 21:13:40.4409|WARN|Microsoft.AspNetCore.Identity.UserManager|User 52d0a717-2761-4c39-a100-c988c7eed547 validation failed: DuplicateUserName.
+2020-01-05 21:13:40.4611|WARN|Microsoft.AspNetCore.Identity.UserManager|User 1d8c9d11-c4ea-406a-aafe-ff6f0ee2298e validation failed: DuplicateUserName.
+2020-01-05 21:13:40.4829|WARN|Microsoft.AspNetCore.Identity.UserManager|User 4c114eeb-af7e-4677-a34b-2066fd2b953f validation failed: DuplicateUserName.
+2020-01-05 21:13:40.5069|WARN|Microsoft.AspNetCore.Identity.UserManager|User 4672ba4f-1c94-40bb-b393-53a409c3e34b validation failed: DuplicateUserName.
+2020-01-05 21:13:40.5288|WARN|Microsoft.AspNetCore.Identity.UserManager|User bc1d0938-1c26-4fa9-9b30-6b9b32322bdd validation failed: DuplicateUserName.
+2020-01-05 21:13:40.5505|WARN|Microsoft.AspNetCore.Identity.UserManager|User a42ab628-bb09-407d-9b6d-3d453aa43f54 validation failed: DuplicateUserName.
+2020-01-05 21:13:40.6423|WARN|Microsoft.AspNetCore.Identity.UserManager|User 6707d183-2f7a-4d0d-87e3-6da583f3a6e0 validation failed: DuplicateUserName.
+2020-01-05 21:13:40.6603|WARN|Microsoft.AspNetCore.Identity.UserManager|User 52d0a717-2761-4c39-a100-c988c7eed547 validation failed: DuplicateUserName.
+2020-01-05 21:13:40.6730|WARN|Microsoft.AspNetCore.Identity.UserManager|User 1d8c9d11-c4ea-406a-aafe-ff6f0ee2298e validation failed: DuplicateUserName.
+2020-01-05 21:13:40.6877|WARN|Microsoft.AspNetCore.Identity.UserManager|User 4c114eeb-af7e-4677-a34b-2066fd2b953f validation failed: DuplicateUserName.
+2020-01-05 21:13:40.7014|WARN|Microsoft.AspNetCore.Identity.UserManager|User 4672ba4f-1c94-40bb-b393-53a409c3e34b validation failed: DuplicateUserName.
+2020-01-05 21:13:40.7165|WARN|Microsoft.AspNetCore.Identity.UserManager|User bc1d0938-1c26-4fa9-9b30-6b9b32322bdd validation failed: DuplicateUserName.
+2020-01-05 21:13:40.7295|WARN|Microsoft.AspNetCore.Identity.UserManager|User a42ab628-bb09-407d-9b6d-3d453aa43f54 validation failed: DuplicateUserName.
+2020-01-05 21:13:40.7295|INFO|CodeSec.Program|Seeded the database.
+2020-01-05 21:13:51.4823|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 21:13:51.4823|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 21:14:37.6822|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 21:14:37.6822|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 21:21:53.4830|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 21:21:57.2587|WARN|Microsoft.AspNetCore.Identity.UserManager|User 5441fc90-c16d-417f-9345-a105872ea274 validation failed: DuplicateUserName.
+2020-01-05 21:21:57.2997|WARN|Microsoft.AspNetCore.Identity.UserManager|User e6cd671f-993e-4c36-9966-d05195777dfe validation failed: DuplicateUserName.
+2020-01-05 21:21:57.3312|WARN|Microsoft.AspNetCore.Identity.UserManager|User fe651736-385a-4516-a3a2-da8b945c94ed validation failed: DuplicateUserName.
+2020-01-05 21:21:57.3636|WARN|Microsoft.AspNetCore.Identity.UserManager|User f0889996-7f8a-4df0-9727-cdd3d89ca16d validation failed: DuplicateUserName.
+2020-01-05 21:21:57.3868|WARN|Microsoft.AspNetCore.Identity.UserManager|User 08271277-850d-47f4-b472-fcb687d3096a validation failed: DuplicateUserName.
+2020-01-05 21:21:57.4049|WARN|Microsoft.AspNetCore.Identity.UserManager|User f7dc16d3-32fc-472b-8cca-45cc5ed0544d validation failed: DuplicateUserName.
+2020-01-05 21:21:57.4233|WARN|Microsoft.AspNetCore.Identity.UserManager|User 85349f4e-1086-48dc-9521-da2c8dd1efd6 validation failed: DuplicateUserName.
+2020-01-05 21:21:57.4999|WARN|Microsoft.AspNetCore.Identity.UserManager|User 5441fc90-c16d-417f-9345-a105872ea274 validation failed: DuplicateUserName.
+2020-01-05 21:21:57.5166|WARN|Microsoft.AspNetCore.Identity.UserManager|User e6cd671f-993e-4c36-9966-d05195777dfe validation failed: DuplicateUserName.
+2020-01-05 21:21:57.5292|WARN|Microsoft.AspNetCore.Identity.UserManager|User fe651736-385a-4516-a3a2-da8b945c94ed validation failed: DuplicateUserName.
+2020-01-05 21:21:57.5418|WARN|Microsoft.AspNetCore.Identity.UserManager|User f0889996-7f8a-4df0-9727-cdd3d89ca16d validation failed: DuplicateUserName.
+2020-01-05 21:21:57.5542|WARN|Microsoft.AspNetCore.Identity.UserManager|User 08271277-850d-47f4-b472-fcb687d3096a validation failed: DuplicateUserName.
+2020-01-05 21:21:57.5542|WARN|Microsoft.AspNetCore.Identity.UserManager|User f7dc16d3-32fc-472b-8cca-45cc5ed0544d validation failed: DuplicateUserName.
+2020-01-05 21:21:57.5795|WARN|Microsoft.AspNetCore.Identity.UserManager|User 85349f4e-1086-48dc-9521-da2c8dd1efd6 validation failed: DuplicateUserName.
+2020-01-05 21:21:57.5851|INFO|CodeSec.Program|Seeded the database.
+2020-01-05 21:22:08.9325|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 21:22:08.9325|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 21:23:17.0171|INFO|CodeSec.Controllers.ExecutiveEmployeeController|Ny anmälan skapad: CfDJ8PlvaOAfcixCq2HtyEGj8YMFwz944u91j0W1NafR4T2RMkSgd1zYGtbw6I9gpkE0n8RAkV4Gjv-blEnnb2AEBbbGv_vouaWbUOIU816Sg5BQ6X5SY7uisW98Etf2tWIhH3YNGjdJVqMqGaXBaWVXOBE5JpbUfAJYDK_Gry-Y5asztwD_JaZ1pbK6HCnOegp1vdY9TrfO76c6BvXlV0mPIeK08OvkZvhywSwkC5fXYqbpYaCt_eZLvPCKGIQq7tSIEA
+2020-01-05 21:23:36.1502|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 21:23:36.1502|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 21:24:31.4889|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2020-01-05 21:26:38.5738|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 21:26:40.1076|WARN|Microsoft.AspNetCore.Identity.UserManager|User 77f03530-632f-4178-8a30-e684c6cb007a validation failed: DuplicateUserName.
+2020-01-05 21:26:40.1436|WARN|Microsoft.AspNetCore.Identity.UserManager|User 2dfa715e-1266-4d79-8297-0f5ea1aa1442 validation failed: DuplicateUserName.
+2020-01-05 21:26:40.1650|WARN|Microsoft.AspNetCore.Identity.UserManager|User a5fbeae8-5fa4-4dff-8a41-ca94c7758edc validation failed: DuplicateUserName.
+2020-01-05 21:26:40.1844|WARN|Microsoft.AspNetCore.Identity.UserManager|User 95e7a9b4-3175-4731-a768-ca22de1eb2a1 validation failed: DuplicateUserName.
+2020-01-05 21:26:40.2070|WARN|Microsoft.AspNetCore.Identity.UserManager|User 5fddec18-04f1-497a-b2e3-3c948060536c validation failed: DuplicateUserName.
+2020-01-05 21:26:40.2247|WARN|Microsoft.AspNetCore.Identity.UserManager|User 730141b7-1a03-49f8-b538-fd333448c66f validation failed: DuplicateUserName.
+2020-01-05 21:26:40.2431|WARN|Microsoft.AspNetCore.Identity.UserManager|User 7675877d-facc-4ed1-a084-f643dfeed502 validation failed: DuplicateUserName.
+2020-01-05 21:26:40.3235|WARN|Microsoft.AspNetCore.Identity.UserManager|User 77f03530-632f-4178-8a30-e684c6cb007a validation failed: DuplicateUserName.
+2020-01-05 21:26:40.3439|WARN|Microsoft.AspNetCore.Identity.UserManager|User 2dfa715e-1266-4d79-8297-0f5ea1aa1442 validation failed: DuplicateUserName.
+2020-01-05 21:26:40.3611|WARN|Microsoft.AspNetCore.Identity.UserManager|User a5fbeae8-5fa4-4dff-8a41-ca94c7758edc validation failed: DuplicateUserName.
+2020-01-05 21:26:40.3751|WARN|Microsoft.AspNetCore.Identity.UserManager|User 95e7a9b4-3175-4731-a768-ca22de1eb2a1 validation failed: DuplicateUserName.
+2020-01-05 21:26:40.3888|WARN|Microsoft.AspNetCore.Identity.UserManager|User 5fddec18-04f1-497a-b2e3-3c948060536c validation failed: DuplicateUserName.
+2020-01-05 21:26:40.4016|WARN|Microsoft.AspNetCore.Identity.UserManager|User 730141b7-1a03-49f8-b538-fd333448c66f validation failed: DuplicateUserName.
+2020-01-05 21:26:40.4161|WARN|Microsoft.AspNetCore.Identity.UserManager|User 7675877d-facc-4ed1-a084-f643dfeed502 validation failed: DuplicateUserName.
+2020-01-05 21:26:40.4161|INFO|CodeSec.Program|Seeded the database.
+2020-01-05 21:26:47.7395|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 21:26:47.7433|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 21:27:28.4591|INFO|CodeSec.Controllers.ExecutiveEmployeeController|Ny anmälan skapad: CfDJ8PlvaOAfcixCq2HtyEGj8YOJryl4g-UCqll6TwHsqQ8YOivuQCj-hrUJR1-Kl1M_9_g-doH4Ez6sqUMd8JcsEYNiUUxKkFICSyxm06yzCvrsdeMnj0aMPBcN-ayG7EFzTbO0PWxEXZGMtQan3ORk-eYD9rqiwXoXMccT7FIeGnF9Fdj9YlxasTLdo1ouo0THS7OGvyDCsYww4xorNJzcwe0-tqDE_E_JDUpcZ0QZ25m5d3yIbacEkdfl1zlGN19vOg
+2020-01-05 21:27:50.7414|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 21:27:50.7414|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 21:28:14.3236|INFO|CodeSec.Controllers.ExecutiveEmployeeController|Ny anmälan skapad: CfDJ8PlvaOAfcixCq2HtyEGj8YNGI7GgsWg9F46DsF738MyUlVLmjmCT143lJYN9ZTjtf0tlso9ud2ADIDp6R9tcv7FJlZ4I_gRCLSlPkvXVCK-YMit3BkRBZ_FWsgS5-w4HQOpPlJbvOewt75jWZxWGvw4H54CgF47GIQQ4TrAZPPZdNen-_TWNXkn03iTpBuYza1cpt85OQp0eTsewHFGM7otMNYL2qpqX8TJZ-_Rm2yqm1CYQzezMWwvSfFWt4VGTPg
+2020-01-05 21:28:29.5682|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 21:28:29.5682|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 21:28:34.6718|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 21:28:34.6718|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 21:30:47.8255|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 21:30:49.2832|WARN|Microsoft.AspNetCore.Identity.UserManager|User 5dcf6463-3a33-4da4-a65b-02cf35e172e0 validation failed: DuplicateUserName.
+2020-01-05 21:30:49.3253|WARN|Microsoft.AspNetCore.Identity.UserManager|User 7644cf2d-5fe3-43ac-a899-0988361ca097 validation failed: DuplicateUserName.
+2020-01-05 21:30:49.3432|WARN|Microsoft.AspNetCore.Identity.UserManager|User e10d71e6-f9df-48c3-a975-1eb4ccd9a7e4 validation failed: DuplicateUserName.
+2020-01-05 21:30:49.3612|WARN|Microsoft.AspNetCore.Identity.UserManager|User 1d7a4887-ec7d-4509-ba1f-f932321ef8b8 validation failed: DuplicateUserName.
+2020-01-05 21:30:49.3783|WARN|Microsoft.AspNetCore.Identity.UserManager|User dea0a777-9866-460f-9201-8ae3a4725458 validation failed: DuplicateUserName.
+2020-01-05 21:30:49.3965|WARN|Microsoft.AspNetCore.Identity.UserManager|User 62f488d6-0c42-47e6-a85f-676114a01cb8 validation failed: DuplicateUserName.
+2020-01-05 21:30:49.4166|WARN|Microsoft.AspNetCore.Identity.UserManager|User d18f54d1-cf2d-4ba2-b996-b3beb37de21b validation failed: DuplicateUserName.
+2020-01-05 21:30:49.4921|WARN|Microsoft.AspNetCore.Identity.UserManager|User 5dcf6463-3a33-4da4-a65b-02cf35e172e0 validation failed: DuplicateUserName.
+2020-01-05 21:30:49.5122|WARN|Microsoft.AspNetCore.Identity.UserManager|User 7644cf2d-5fe3-43ac-a899-0988361ca097 validation failed: DuplicateUserName.
+2020-01-05 21:30:49.5273|WARN|Microsoft.AspNetCore.Identity.UserManager|User e10d71e6-f9df-48c3-a975-1eb4ccd9a7e4 validation failed: DuplicateUserName.
+2020-01-05 21:30:49.5408|WARN|Microsoft.AspNetCore.Identity.UserManager|User 1d7a4887-ec7d-4509-ba1f-f932321ef8b8 validation failed: DuplicateUserName.
+2020-01-05 21:30:49.5575|WARN|Microsoft.AspNetCore.Identity.UserManager|User dea0a777-9866-460f-9201-8ae3a4725458 validation failed: DuplicateUserName.
+2020-01-05 21:30:49.5734|WARN|Microsoft.AspNetCore.Identity.UserManager|User 62f488d6-0c42-47e6-a85f-676114a01cb8 validation failed: DuplicateUserName.
+2020-01-05 21:30:49.5880|WARN|Microsoft.AspNetCore.Identity.UserManager|User d18f54d1-cf2d-4ba2-b996-b3beb37de21b validation failed: DuplicateUserName.
+2020-01-05 21:30:49.5880|INFO|CodeSec.Program|Seeded the database.
+2020-01-05 21:30:55.2825|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 21:30:55.2825|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 21:32:04.9358|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 21:32:06.5484|WARN|Microsoft.AspNetCore.Identity.UserManager|User 6bc4ff2f-ceb4-414f-ae98-bbc77cf29be8 validation failed: DuplicateUserName.
+2020-01-05 21:32:06.5907|WARN|Microsoft.AspNetCore.Identity.UserManager|User 41dbb681-3a07-4285-94c2-e34c8dc82a51 validation failed: DuplicateUserName.
+2020-01-05 21:32:06.6144|WARN|Microsoft.AspNetCore.Identity.UserManager|User 22444368-7d3c-47e4-8c77-1c9d32cd2b05 validation failed: DuplicateUserName.
+2020-01-05 21:32:06.6523|WARN|Microsoft.AspNetCore.Identity.UserManager|User e1016f70-bb04-418e-9b96-0de819c19850 validation failed: DuplicateUserName.
+2020-01-05 21:32:06.6716|WARN|Microsoft.AspNetCore.Identity.UserManager|User 1ad79f89-1344-4253-94f3-e52f242a91ce validation failed: DuplicateUserName.
+2020-01-05 21:32:06.6894|WARN|Microsoft.AspNetCore.Identity.UserManager|User 0dd6ef7f-3c23-403f-a057-98fb70a05dae validation failed: DuplicateUserName.
+2020-01-05 21:32:06.7100|WARN|Microsoft.AspNetCore.Identity.UserManager|User e08dddd2-c77b-4708-8649-c92b216fc212 validation failed: DuplicateUserName.
+2020-01-05 21:32:06.7886|WARN|Microsoft.AspNetCore.Identity.UserManager|User 6bc4ff2f-ceb4-414f-ae98-bbc77cf29be8 validation failed: DuplicateUserName.
+2020-01-05 21:32:06.8069|WARN|Microsoft.AspNetCore.Identity.UserManager|User 41dbb681-3a07-4285-94c2-e34c8dc82a51 validation failed: DuplicateUserName.
+2020-01-05 21:32:06.8248|WARN|Microsoft.AspNetCore.Identity.UserManager|User 22444368-7d3c-47e4-8c77-1c9d32cd2b05 validation failed: DuplicateUserName.
+2020-01-05 21:32:06.8430|WARN|Microsoft.AspNetCore.Identity.UserManager|User e1016f70-bb04-418e-9b96-0de819c19850 validation failed: DuplicateUserName.
+2020-01-05 21:32:06.8569|WARN|Microsoft.AspNetCore.Identity.UserManager|User 1ad79f89-1344-4253-94f3-e52f242a91ce validation failed: DuplicateUserName.
+2020-01-05 21:32:06.8719|WARN|Microsoft.AspNetCore.Identity.UserManager|User 0dd6ef7f-3c23-403f-a057-98fb70a05dae validation failed: DuplicateUserName.
+2020-01-05 21:32:06.8855|WARN|Microsoft.AspNetCore.Identity.UserManager|User e08dddd2-c77b-4708-8649-c92b216fc212 validation failed: DuplicateUserName.
+2020-01-05 21:32:06.8855|INFO|CodeSec.Program|Seeded the database.
+2020-01-05 21:32:16.2190|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 21:32:16.2190|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 21:33:19.7022|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-05 21:33:21.1395|WARN|Microsoft.AspNetCore.Identity.UserManager|User c12b6a3e-7320-4c20-9223-4e21660c19f6 validation failed: DuplicateUserName.
+2020-01-05 21:33:21.1761|WARN|Microsoft.AspNetCore.Identity.UserManager|User b82bc9fe-e0e1-48ae-a0bd-cd78d88aa88c validation failed: DuplicateUserName.
+2020-01-05 21:33:21.1954|WARN|Microsoft.AspNetCore.Identity.UserManager|User 2469a459-7d68-4ef9-8c85-49269fb3edbc validation failed: DuplicateUserName.
+2020-01-05 21:33:21.2126|WARN|Microsoft.AspNetCore.Identity.UserManager|User 34957ee7-317d-4d15-a7e0-2ecb6db627e7 validation failed: DuplicateUserName.
+2020-01-05 21:33:21.2297|WARN|Microsoft.AspNetCore.Identity.UserManager|User 91bce240-57a5-478a-8c7e-3bcd113c02dc validation failed: DuplicateUserName.
+2020-01-05 21:33:21.2471|WARN|Microsoft.AspNetCore.Identity.UserManager|User eb52d4d2-a0a2-46fb-b727-669017a8fc7e validation failed: DuplicateUserName.
+2020-01-05 21:33:21.2659|WARN|Microsoft.AspNetCore.Identity.UserManager|User 2fbca905-4544-4c51-871a-651095b21849 validation failed: DuplicateUserName.
+2020-01-05 21:33:21.3370|WARN|Microsoft.AspNetCore.Identity.UserManager|User c12b6a3e-7320-4c20-9223-4e21660c19f6 validation failed: DuplicateUserName.
+2020-01-05 21:33:21.3545|WARN|Microsoft.AspNetCore.Identity.UserManager|User b82bc9fe-e0e1-48ae-a0bd-cd78d88aa88c validation failed: DuplicateUserName.
+2020-01-05 21:33:21.3697|WARN|Microsoft.AspNetCore.Identity.UserManager|User 2469a459-7d68-4ef9-8c85-49269fb3edbc validation failed: DuplicateUserName.
+2020-01-05 21:33:21.3853|WARN|Microsoft.AspNetCore.Identity.UserManager|User 34957ee7-317d-4d15-a7e0-2ecb6db627e7 validation failed: DuplicateUserName.
+2020-01-05 21:33:21.4016|WARN|Microsoft.AspNetCore.Identity.UserManager|User 91bce240-57a5-478a-8c7e-3bcd113c02dc validation failed: DuplicateUserName.
+2020-01-05 21:33:21.4179|WARN|Microsoft.AspNetCore.Identity.UserManager|User eb52d4d2-a0a2-46fb-b727-669017a8fc7e validation failed: DuplicateUserName.
+2020-01-05 21:33:21.4319|WARN|Microsoft.AspNetCore.Identity.UserManager|User 2fbca905-4544-4c51-871a-651095b21849 validation failed: DuplicateUserName.
+2020-01-05 21:33:21.4319|INFO|CodeSec.Program|Seeded the database.
+2020-01-05 21:33:27.2233|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-05 21:33:27.2269|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.

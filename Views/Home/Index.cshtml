@@ -1,0 +1,19 @@
+﻿@{ 
+    @model SickNote
+}
+<script src="~/js/RequireText.js"></script>
+	<body>
+        <div id="content">
+            <section id="mainColumn">
+                <h2>Välkommen till CodeSec - denna sida är till för anställda. Logga in med hjälp av knappen uppe till höger.</h2>
+                <p class="info">Vi på CodeSec vill inte att du kommer in sjuk och smittar ned andra!</p>
+
+            </section><!-- End Left -->
+
+            @await Component.InvokeAsync("PictureColumn")
+
+            <footer>
+                &copy; CodeSec All rights reserved.
+            </footer>
+        </div><!-- End Content -->
+	</body>

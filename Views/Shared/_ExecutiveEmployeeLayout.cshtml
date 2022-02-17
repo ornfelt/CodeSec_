@@ -1,0 +1,12 @@
+﻿@{
+  Layout = "_LoggedInLayout";
+}
+
+<nav>
+  <ul>
+    <li><a class="reports" asp-controller="ExecutiveEmployee" asp-action="StartExecutiveEmployee">Start(Anmälningar)</a></li>
+    <li><a class="reportAdd" asp-controller="ExecutiveEmployee" asp-action="ReportSickNote">Ange sjukfrånvaro</a></li>
+    <li class="right"><a class="logout" asp-controller="Home" asp-action="Index">Logga ut</a></li>
+  </ul>
+</nav><!-- End Nav -->
+    @RenderBody()

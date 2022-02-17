@@ -1,0 +1,207 @@
+2020-01-04 19:32:17.0530|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-04 19:32:24.3785|WARN|Microsoft.AspNetCore.Identity.UserManager|User 9358053e-bc2b-45c5-a1d7-dfbdde44ea09 password validation failed: PasswordTooShort.
+2020-01-04 19:32:24.3973|WARN|Microsoft.AspNetCore.Identity.UserManager|User 7b5d3288-d048-44bb-b01e-4434e6893a91 password validation failed: PasswordTooShort.
+2020-01-04 19:32:24.4009|WARN|Microsoft.AspNetCore.Identity.UserManager|User 4605c4e9-0a1d-4f2b-95fa-6aedf4db12f1 password validation failed: PasswordTooShort.
+2020-01-04 19:32:24.4009|WARN|Microsoft.AspNetCore.Identity.UserManager|User 672e77c4-a7d1-45f5-b065-f35e820ee204 password validation failed: PasswordTooShort.
+2020-01-04 19:32:24.4009|WARN|Microsoft.AspNetCore.Identity.UserManager|User 32891d40-7958-4b90-943d-a68e114bc9fe password validation failed: PasswordTooShort.
+2020-01-04 19:32:24.4009|WARN|Microsoft.AspNetCore.Identity.UserManager|User 159a598e-76a1-49fb-ae2d-c737625036bb password validation failed: PasswordTooShort.
+2020-01-04 19:32:24.4148|WARN|Microsoft.AspNetCore.Identity.UserManager|User 14c0cbef-1d06-43f5-874c-65c17c8fbbb9 password validation failed: PasswordTooShort.
+2020-01-04 19:32:24.4148|WARN|Microsoft.AspNetCore.Identity.UserManager|User 9d238e6d-b16a-4d13-b61b-8f8b4075bf0e password validation failed: PasswordTooShort.
+2020-01-04 19:32:24.4148|WARN|Microsoft.AspNetCore.Identity.UserManager|User f3f74e05-5ff0-45b8-9b21-836d216618fe password validation failed: PasswordTooShort.
+2020-01-04 19:32:24.4148|WARN|Microsoft.AspNetCore.Identity.UserManager|User 604e3dd0-3ffa-4a4b-844d-da98d30c2cee password validation failed: PasswordTooShort.
+2020-01-04 19:32:24.4148|WARN|Microsoft.AspNetCore.Identity.UserManager|User 78d75be8-d446-4591-a642-43037bb673e2 password validation failed: PasswordTooShort.
+2020-01-04 19:32:24.4305|WARN|Microsoft.AspNetCore.Identity.UserManager|User 2bde08b8-aa75-4442-9e41-df9493bd4c6f password validation failed: PasswordTooShort.
+2020-01-04 19:32:24.4305|WARN|Microsoft.AspNetCore.Identity.UserManager|User 8ddc1953-1f1d-49c0-a2f1-32f93143d2d6 password validation failed: PasswordTooShort.
+2020-01-04 19:32:24.4305|WARN|Microsoft.AspNetCore.Identity.UserManager|User e52f1614-e98e-4d68-b74c-b34867a64604 password validation failed: PasswordTooShort.
+2020-01-04 19:32:24.4305|WARN|Microsoft.AspNetCore.Identity.UserManager|User 70e44ef1-0e9e-4d8a-8940-c10769e3a0b7 password validation failed: PasswordTooShort.
+2020-01-04 19:32:24.4305|WARN|Microsoft.AspNetCore.Identity.UserManager|User d1e66a74-d1a7-4681-ac7d-5553e17ea73d password validation failed: PasswordTooShort.
+2020-01-04 19:32:24.4468|WARN|Microsoft.AspNetCore.Identity.UserManager|User ff358389-fbef-41b9-ab39-daceef29815f password validation failed: PasswordTooShort.
+2020-01-04 19:32:24.4468|WARN|Microsoft.AspNetCore.Identity.UserManager|User 9b90f3a3-258e-420c-bbd1-0c2a542c55fb password validation failed: PasswordTooShort.
+2020-01-04 19:32:24.4468|WARN|Microsoft.AspNetCore.Identity.UserManager|User 9b7d9e20-2d88-4ce0-a32e-6caba572dfba password validation failed: PasswordTooShort.
+2020-01-04 19:32:24.4468|WARN|Microsoft.AspNetCore.Identity.UserManager|User 004986e5-2202-4fe2-835d-4bb3c79cc774 password validation failed: PasswordTooShort.
+2020-01-04 19:32:24.4468|WARN|Microsoft.AspNetCore.Identity.UserManager|User d771ff45-429d-47ae-ac67-078844f1faed password validation failed: PasswordTooShort.
+2020-01-04 19:32:24.8560|ERROR|CodeSec.Program|An error occured while seeding the database.
+2020-01-04 19:32:24.8560|INFO|CodeSec.Program|Seeded the database.
+2020-01-04 19:33:01.8977|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-04 19:33:01.9027|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-04 19:33:10.1995|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-04 19:33:10.1995|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-04 19:33:39.8569|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Samples' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-04 19:33:39.8569|WARN|Microsoft.EntityFrameworkCore.Query|The Include operation for navigation '[e].Pictures' is unnecessary and was ignored because the navigation is not reachable in the final query results. See https://go.microsoft.com/fwlink/?linkid=850303 for more information.
+2020-01-04 19:33:43.8737|ERROR|Microsoft.EntityFrameworkCore.Query|An exception occurred while iterating over the results of a query for context type 'CodeSec.Models.ApplicationDbContext'.
+System.InvalidCastException: Unable to cast object of type 'System.Boolean' to type 'System.String'.
+   at System.Data.SqlClient.SqlBuffer.get_String()
+   at System.Data.SqlClient.SqlDataReader.GetString(Int32 i)
+   at lambda_method(Closure , DbDataReader )
+   at Microsoft.EntityFrameworkCore.Storage.Internal.TypedRelationalValueBufferFactory.Create(DbDataReader dataReader)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.BufferlessMoveNext(DbContext _, Boolean buffer)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Boolean& found)
+   at lambda_method(Closure )
+   at Microsoft.EntityFrameworkCore.Query.Internal.LinqOperatorProvider.ResultEnumerable`1.GetEnumerator()
+   at Microsoft.EntityFrameworkCore.Query.Internal.LinqOperatorProvider._TrackEntities[TOut,TIn](IEnumerable`1 results, QueryContext queryContext, IList`1 entityTrackingInfos, IList`1 entityAccessors)+MoveNext()
+   at Microsoft.EntityFrameworkCore.Query.Internal.LinqOperatorProvider.ExceptionInterceptor`1.EnumeratorExceptionInterceptor.MoveNext()
+2020-01-04 19:33:43.8737|ERROR|Microsoft.EntityFrameworkCore.Query|An exception occurred while iterating over the results of a query for context type 'CodeSec.Models.ApplicationDbContext'.
+System.InvalidCastException: Unable to cast object of type 'System.Boolean' to type 'System.String'.
+   at System.Data.SqlClient.SqlBuffer.get_String()
+   at System.Data.SqlClient.SqlDataReader.GetString(Int32 i)
+   at lambda_method(Closure , DbDataReader )
+   at Microsoft.EntityFrameworkCore.Storage.Internal.TypedRelationalValueBufferFactory.Create(DbDataReader dataReader)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.BufferlessMoveNext(DbContext _, Boolean buffer)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Boolean& found)
+   at lambda_method(Closure )
+   at Microsoft.EntityFrameworkCore.Query.Internal.LinqOperatorProvider.ResultEnumerable`1.GetEnumerator()
+   at Microsoft.EntityFrameworkCore.Query.Internal.LinqOperatorProvider._TrackEntities[TOut,TIn](IEnumerable`1 results, QueryContext queryContext, IList`1 entityTrackingInfos, IList`1 entityAccessors)+MoveNext()
+   at Microsoft.EntityFrameworkCore.Query.Internal.LinqOperatorProvider.ExceptionInterceptor`1.EnumeratorExceptionInterceptor.MoveNext()
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Boolean& found)
+   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.<>c__DisplayClass15_1`1.<CompileQueryCore>b__0(QueryContext qc)
+2020-01-04 20:25:37.6659|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-04 20:25:44.9949|WARN|Microsoft.AspNetCore.Identity.UserManager|User 676ae514-9359-4d25-b763-5c9c51f0d249 password validation failed: PasswordTooShort.
+2020-01-04 20:25:45.0122|WARN|Microsoft.AspNetCore.Identity.UserManager|User 4e52ba5a-09d6-412d-990c-c23cc94435e2 password validation failed: PasswordTooShort.
+2020-01-04 20:25:45.0122|WARN|Microsoft.AspNetCore.Identity.UserManager|User cdea05bb-969e-41af-9f29-2b83e4bc3870 password validation failed: PasswordTooShort.
+2020-01-04 20:25:45.0122|WARN|Microsoft.AspNetCore.Identity.UserManager|User 389b8a7c-79b2-4ce5-bc0a-44718f7a6de0 password validation failed: PasswordTooShort.
+2020-01-04 20:25:45.0258|WARN|Microsoft.AspNetCore.Identity.UserManager|User 3880d0da-54bf-4cb8-a53a-b9ab57d0ddef password validation failed: PasswordTooShort.
+2020-01-04 20:25:45.0258|WARN|Microsoft.AspNetCore.Identity.UserManager|User 69687638-d498-4cef-89ce-a29a3624f8b6 password validation failed: PasswordTooShort.
+2020-01-04 20:25:45.0258|WARN|Microsoft.AspNetCore.Identity.UserManager|User 95250e4f-9d8c-4747-816f-75c7aed44e0a password validation failed: PasswordTooShort.
+2020-01-04 20:25:45.0258|WARN|Microsoft.AspNetCore.Identity.UserManager|User be22dcac-fcd1-4cc3-b04b-4ce01e6be870 password validation failed: PasswordTooShort.
+2020-01-04 20:25:45.0396|WARN|Microsoft.AspNetCore.Identity.UserManager|User 550179de-94f6-4413-9dcc-a597bc924244 password validation failed: PasswordTooShort.
+2020-01-04 20:25:45.0396|WARN|Microsoft.AspNetCore.Identity.UserManager|User cd88fc82-6863-4072-a367-950bb984a471 password validation failed: PasswordTooShort.
+2020-01-04 20:25:45.0396|WARN|Microsoft.AspNetCore.Identity.UserManager|User 6425381f-7fe7-44f8-9add-d025b9e33e18 password validation failed: PasswordTooShort.
+2020-01-04 20:25:45.0396|WARN|Microsoft.AspNetCore.Identity.UserManager|User f5099174-0fe2-4340-953d-79aa3ea6301f password validation failed: PasswordTooShort.
+2020-01-04 20:25:45.0396|WARN|Microsoft.AspNetCore.Identity.UserManager|User b88b8fd5-1097-4364-a116-79c5a346fde4 password validation failed: PasswordTooShort.
+2020-01-04 20:25:45.0571|WARN|Microsoft.AspNetCore.Identity.UserManager|User a4407703-f17e-4e83-a324-57462f822dae password validation failed: PasswordTooShort.
+2020-01-04 20:25:45.0571|WARN|Microsoft.AspNetCore.Identity.UserManager|User 892d4155-fc19-4b20-a94b-cf72e6da92ab password validation failed: PasswordTooShort.
+2020-01-04 20:25:45.0571|WARN|Microsoft.AspNetCore.Identity.UserManager|User 4b323bec-0468-47e2-91f9-78cd9edd3868 password validation failed: PasswordTooShort.
+2020-01-04 20:25:45.0571|WARN|Microsoft.AspNetCore.Identity.UserManager|User 0c416afe-e0c0-4bae-8559-9415bd5b32ab password validation failed: PasswordTooShort.
+2020-01-04 20:25:45.0742|WARN|Microsoft.AspNetCore.Identity.UserManager|User 6473b901-840d-4ebe-9586-b4aefc3965ad password validation failed: PasswordTooShort.
+2020-01-04 20:25:45.0742|WARN|Microsoft.AspNetCore.Identity.UserManager|User 7a9f6e7b-2102-40be-93c5-83a236e8f2e5 password validation failed: PasswordTooShort.
+2020-01-04 20:25:45.0742|WARN|Microsoft.AspNetCore.Identity.UserManager|User 5f6c7edf-fcec-4e7b-9cc7-36244316f4ad password validation failed: PasswordTooShort.
+2020-01-04 20:25:45.0868|WARN|Microsoft.AspNetCore.Identity.UserManager|User 8c45a92a-1401-4970-a436-132944486606 password validation failed: PasswordTooShort.
+2020-01-04 20:25:45.5932|ERROR|CodeSec.Program|An error occured while seeding the database.
+2020-01-04 20:25:45.5932|INFO|CodeSec.Program|Seeded the database.
+2020-01-04 20:27:00.7177|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-04 20:27:02.8833|WARN|Microsoft.AspNetCore.Identity.UserManager|User c01069ee-2103-449f-8298-7e3f7d4f1994 password validation failed: PasswordTooShort.
+2020-01-04 20:27:02.9010|WARN|Microsoft.AspNetCore.Identity.UserManager|User cc60ec64-c405-4b9b-91cf-6b4685259dd5 password validation failed: PasswordTooShort.
+2020-01-04 20:27:02.9010|WARN|Microsoft.AspNetCore.Identity.UserManager|User 9bbbe6a3-ee72-4775-9ce7-f30e524a06a7 password validation failed: PasswordTooShort.
+2020-01-04 20:27:02.9010|WARN|Microsoft.AspNetCore.Identity.UserManager|User f9093ae7-5861-471b-9fb7-7610818ab80d password validation failed: PasswordTooShort.
+2020-01-04 20:27:02.9190|WARN|Microsoft.AspNetCore.Identity.UserManager|User e88060ad-1f65-4afa-8b49-d3b302da5281 password validation failed: PasswordTooShort.
+2020-01-04 20:27:02.9190|WARN|Microsoft.AspNetCore.Identity.UserManager|User 2932a5b2-2113-4046-887f-e2f788d71222 password validation failed: PasswordTooShort.
+2020-01-04 20:27:02.9190|WARN|Microsoft.AspNetCore.Identity.UserManager|User 0c64f806-784b-4a3a-908b-0b24e3815bf9 password validation failed: PasswordTooShort.
+2020-01-04 20:27:02.9324|WARN|Microsoft.AspNetCore.Identity.UserManager|User 6903255f-e9b9-4655-91f0-e239b98f6236 password validation failed: PasswordTooShort.
+2020-01-04 20:27:02.9324|WARN|Microsoft.AspNetCore.Identity.UserManager|User fc714099-d716-4d29-a017-9bca178ef394 password validation failed: PasswordTooShort.
+2020-01-04 20:27:02.9324|WARN|Microsoft.AspNetCore.Identity.UserManager|User ad546b94-1130-44c6-8880-d5dd3d1635ae password validation failed: PasswordTooShort.
+2020-01-04 20:27:02.9324|WARN|Microsoft.AspNetCore.Identity.UserManager|User 57e54555-87fc-4033-b3dc-0521a8221a99 password validation failed: PasswordTooShort.
+2020-01-04 20:27:02.9482|WARN|Microsoft.AspNetCore.Identity.UserManager|User fac69f4e-5a0a-4053-876d-0238eebe9061 password validation failed: PasswordTooShort.
+2020-01-04 20:27:02.9482|WARN|Microsoft.AspNetCore.Identity.UserManager|User a5119c30-ca3b-4b64-b242-888b9995c79c password validation failed: PasswordTooShort.
+2020-01-04 20:27:02.9482|WARN|Microsoft.AspNetCore.Identity.UserManager|User 9588b3eb-408c-4eae-a067-d14231c7c6bc password validation failed: PasswordTooShort.
+2020-01-04 20:27:02.9609|WARN|Microsoft.AspNetCore.Identity.UserManager|User 847b2eda-127e-4673-baa4-f8ebcf8f1dcb password validation failed: PasswordTooShort.
+2020-01-04 20:27:02.9609|WARN|Microsoft.AspNetCore.Identity.UserManager|User a6dc1120-f51e-4f1f-9492-93c321efb545 password validation failed: PasswordTooShort.
+2020-01-04 20:27:02.9609|WARN|Microsoft.AspNetCore.Identity.UserManager|User f77c84e4-cca6-4a53-8013-fc5b33032ac1 password validation failed: PasswordTooShort.
+2020-01-04 20:27:02.9609|WARN|Microsoft.AspNetCore.Identity.UserManager|User f561e978-11b8-413e-ae3a-43e14fc299be password validation failed: PasswordTooShort.
+2020-01-04 20:27:02.9815|WARN|Microsoft.AspNetCore.Identity.UserManager|User a5d1afee-3059-47b4-874e-64be0e592c21 password validation failed: PasswordTooShort.
+2020-01-04 20:27:02.9815|WARN|Microsoft.AspNetCore.Identity.UserManager|User 89afc981-e2bd-4ed1-b768-170d60120de9 password validation failed: PasswordTooShort.
+2020-01-04 20:27:02.9815|WARN|Microsoft.AspNetCore.Identity.UserManager|User 1594b8b7-e1a8-446d-b525-cbaa8e399ac6 password validation failed: PasswordTooShort.
+2020-01-04 20:27:03.7229|ERROR|CodeSec.Program|An error occured while seeding the database.
+2020-01-04 20:27:03.7293|INFO|CodeSec.Program|Seeded the database.
+2020-01-04 20:27:29.4795|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2020-01-04 20:28:00.0758|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2020-01-04 20:28:30.9988|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-04 20:28:34.4477|WARN|Microsoft.AspNetCore.Identity.UserManager|User bbb1cf0b-144e-4d99-9770-761a1397d858 password validation failed: PasswordTooShort.
+2020-01-04 20:28:34.4683|WARN|Microsoft.AspNetCore.Identity.UserManager|User 243771a6-facd-400b-b5ac-c4409b827b9d password validation failed: PasswordTooShort.
+2020-01-04 20:28:34.4683|WARN|Microsoft.AspNetCore.Identity.UserManager|User d136ead5-b896-4b49-93c3-4880bd6c7f7a password validation failed: PasswordTooShort.
+2020-01-04 20:28:34.4683|WARN|Microsoft.AspNetCore.Identity.UserManager|User 6dc3f9a5-ae4e-412e-a030-0a866df3a50c password validation failed: PasswordTooShort.
+2020-01-04 20:28:34.4799|WARN|Microsoft.AspNetCore.Identity.UserManager|User bae72bbd-a58a-44ac-bd24-d486c30ce5c8 password validation failed: PasswordTooShort.
+2020-01-04 20:28:34.4799|WARN|Microsoft.AspNetCore.Identity.UserManager|User 06cbfb40-e088-45c7-b201-708f8ad5da2c password validation failed: PasswordTooShort.
+2020-01-04 20:28:34.4799|WARN|Microsoft.AspNetCore.Identity.UserManager|User c55e7599-ac71-416c-ba90-8af149100f13 password validation failed: PasswordTooShort.
+2020-01-04 20:28:34.4959|WARN|Microsoft.AspNetCore.Identity.UserManager|User 5e2556a0-df55-48cc-8b6d-5d7fe5b4b697 password validation failed: PasswordTooShort.
+2020-01-04 20:28:34.4959|WARN|Microsoft.AspNetCore.Identity.UserManager|User 7c10ebb5-ef61-44ff-98b6-4bb2ad3b54ac password validation failed: PasswordTooShort.
+2020-01-04 20:28:34.5113|WARN|Microsoft.AspNetCore.Identity.UserManager|User b376180f-8103-4a4b-b1e5-b45a1dc0bfed password validation failed: PasswordTooShort.
+2020-01-04 20:28:34.5113|WARN|Microsoft.AspNetCore.Identity.UserManager|User 36093bd4-28bc-41b9-9741-f79bb167b3ee password validation failed: PasswordTooShort.
+2020-01-04 20:28:34.5113|WARN|Microsoft.AspNetCore.Identity.UserManager|User d0260633-c57d-4d50-89f6-f5d6531889fe password validation failed: PasswordTooShort.
+2020-01-04 20:28:34.5328|WARN|Microsoft.AspNetCore.Identity.UserManager|User 1bca6487-e6a5-49bc-86f2-14884a5f0dc6 password validation failed: PasswordTooShort.
+2020-01-04 20:28:34.5328|WARN|Microsoft.AspNetCore.Identity.UserManager|User 9b6faa37-206b-4c19-81dd-1fdfe5aa7e28 password validation failed: PasswordTooShort.
+2020-01-04 20:28:34.5431|WARN|Microsoft.AspNetCore.Identity.UserManager|User 5b5f235c-f3e3-4624-a911-4e45844abd82 password validation failed: PasswordTooShort.
+2020-01-04 20:28:34.5431|WARN|Microsoft.AspNetCore.Identity.UserManager|User 34742324-440f-45f0-bc84-f28b69366e89 password validation failed: PasswordTooShort.
+2020-01-04 20:28:34.5431|WARN|Microsoft.AspNetCore.Identity.UserManager|User e54c9116-674a-45be-90d3-4f50b89064d5 password validation failed: PasswordTooShort.
+2020-01-04 20:28:34.5570|WARN|Microsoft.AspNetCore.Identity.UserManager|User b8b6b01b-2446-4dc3-ab12-8e1a103bc364 password validation failed: PasswordTooShort.
+2020-01-04 20:28:34.5570|WARN|Microsoft.AspNetCore.Identity.UserManager|User ae7d8cb0-2669-4cbb-bc9a-d134236ef413 password validation failed: PasswordTooShort.
+2020-01-04 20:28:34.5570|WARN|Microsoft.AspNetCore.Identity.UserManager|User 0bcedf85-0b84-453f-ad9d-9b5fbe9725a1 password validation failed: PasswordTooShort.
+2020-01-04 20:28:34.5712|WARN|Microsoft.AspNetCore.Identity.UserManager|User 6aa5a829-7ab2-4d0c-a208-5b9784fa5c40 password validation failed: PasswordTooShort.
+2020-01-04 20:28:34.8890|ERROR|CodeSec.Program|An error occured while seeding the database.
+2020-01-04 20:28:34.8890|INFO|CodeSec.Program|Seeded the database.
+2020-01-04 20:32:57.7461|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-04 20:33:00.5230|WARN|Microsoft.AspNetCore.Identity.UserManager|User a1c4dd5e-f844-41a2-bcbf-6cb283483a52 password validation failed: PasswordTooShort.
+2020-01-04 20:33:00.5411|WARN|Microsoft.AspNetCore.Identity.UserManager|User a260b7df-75c1-4283-9598-76b21a37166a password validation failed: PasswordTooShort.
+2020-01-04 20:33:00.5411|WARN|Microsoft.AspNetCore.Identity.UserManager|User 3f3422fb-7185-49ab-a3db-6b5fa013e6e3 password validation failed: PasswordTooShort.
+2020-01-04 20:33:00.5547|WARN|Microsoft.AspNetCore.Identity.UserManager|User 13ca0f48-4431-4e88-8d0a-a05e7256c9ca password validation failed: PasswordTooShort.
+2020-01-04 20:33:00.5547|WARN|Microsoft.AspNetCore.Identity.UserManager|User 0c3e262e-f156-4746-a450-8e4f3746f9fb password validation failed: PasswordTooShort.
+2020-01-04 20:33:00.5547|WARN|Microsoft.AspNetCore.Identity.UserManager|User c99c1e84-39a2-4e67-87bc-fc96cdfdfbe0 password validation failed: PasswordTooShort.
+2020-01-04 20:33:00.5547|WARN|Microsoft.AspNetCore.Identity.UserManager|User b7a78881-6ca0-4d05-9403-b690b88f46a3 password validation failed: PasswordTooShort.
+2020-01-04 20:33:00.5727|WARN|Microsoft.AspNetCore.Identity.UserManager|User b5848551-d4f7-41ff-bec8-80bac1022137 password validation failed: PasswordTooShort.
+2020-01-04 20:33:00.5727|WARN|Microsoft.AspNetCore.Identity.UserManager|User d523c209-0e03-4241-ac18-9e4db5225431 password validation failed: PasswordTooShort.
+2020-01-04 20:33:00.5727|WARN|Microsoft.AspNetCore.Identity.UserManager|User c61e66b7-3948-49de-b2c6-82661785b63e password validation failed: PasswordTooShort.
+2020-01-04 20:33:00.5727|WARN|Microsoft.AspNetCore.Identity.UserManager|User 584946ce-d13e-4db7-b71b-db61dc226cc9 password validation failed: PasswordTooShort.
+2020-01-04 20:33:00.5903|WARN|Microsoft.AspNetCore.Identity.UserManager|User dd0ced89-007f-4be7-9ccd-f066ce7f20dc password validation failed: PasswordTooShort.
+2020-01-04 20:33:00.5903|WARN|Microsoft.AspNetCore.Identity.UserManager|User ea87932a-4ad9-4238-b1b7-beeea81fe2c0 password validation failed: PasswordTooShort.
+2020-01-04 20:33:00.5903|WARN|Microsoft.AspNetCore.Identity.UserManager|User 27477e60-0f17-4dec-ab5f-26c736059fd7 password validation failed: PasswordTooShort.
+2020-01-04 20:33:00.6022|WARN|Microsoft.AspNetCore.Identity.UserManager|User 0a2c1e7c-7e4b-4ff5-9d6e-1c4c6432c504 password validation failed: PasswordTooShort.
+2020-01-04 20:33:00.6022|WARN|Microsoft.AspNetCore.Identity.UserManager|User 39aa6f54-6da9-470d-8099-f64fd0a16b3b password validation failed: PasswordTooShort.
+2020-01-04 20:33:00.6022|WARN|Microsoft.AspNetCore.Identity.UserManager|User 5da9eb93-d657-4391-8552-3907675cb6f3 password validation failed: PasswordTooShort.
+2020-01-04 20:33:00.6022|WARN|Microsoft.AspNetCore.Identity.UserManager|User 30844909-8fb6-4980-8181-fd47549c100f password validation failed: PasswordTooShort.
+2020-01-04 20:33:00.6211|WARN|Microsoft.AspNetCore.Identity.UserManager|User 6e01633b-a1a9-4433-bafb-43df4b7d100c password validation failed: PasswordTooShort.
+2020-01-04 20:33:00.6211|WARN|Microsoft.AspNetCore.Identity.UserManager|User 66b3e878-e935-4200-92d1-8b23b3e0ce9e password validation failed: PasswordTooShort.
+2020-01-04 20:33:00.6211|WARN|Microsoft.AspNetCore.Identity.UserManager|User d4a744a2-7845-40dd-92a7-223ab115ba6f password validation failed: PasswordTooShort.
+2020-01-04 20:33:00.9856|ERROR|CodeSec.Program|An error occured while seeding the database.
+2020-01-04 20:33:00.9856|INFO|CodeSec.Program|Seeded the database.
+2020-01-04 20:56:58.4022|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-04 20:57:07.0474|WARN|Microsoft.AspNetCore.Identity.UserManager|User 753f05bc-ec03-4c48-831a-4f2b6ffcf7a5 password validation failed: PasswordTooShort.
+2020-01-04 20:57:07.0638|WARN|Microsoft.AspNetCore.Identity.UserManager|User cb9ae143-6b97-4817-8e23-a127c6399d1e password validation failed: PasswordTooShort.
+2020-01-04 20:57:07.0638|WARN|Microsoft.AspNetCore.Identity.UserManager|User d1c6868c-f6ef-4255-9d2f-41870c391e72 password validation failed: PasswordTooShort.
+2020-01-04 20:57:07.0716|WARN|Microsoft.AspNetCore.Identity.UserManager|User 2fc1d430-8f1f-45e1-bef3-5986df60ad2a password validation failed: PasswordTooShort.
+2020-01-04 20:57:07.0716|WARN|Microsoft.AspNetCore.Identity.UserManager|User d033d2de-1ff1-423f-a4fb-f1ff5915e035 password validation failed: PasswordTooShort.
+2020-01-04 20:57:07.0716|WARN|Microsoft.AspNetCore.Identity.UserManager|User 4e9439cb-cd51-43cc-9395-dc2d7ad13b50 password validation failed: PasswordTooShort.
+2020-01-04 20:57:07.0716|WARN|Microsoft.AspNetCore.Identity.UserManager|User fa9f6506-36b7-4c07-b87d-92413f028e80 password validation failed: PasswordTooShort.
+2020-01-04 20:57:07.0716|WARN|Microsoft.AspNetCore.Identity.UserManager|User 67df297f-5ead-4582-b4bf-d9e7b20c99b9 password validation failed: PasswordTooShort.
+2020-01-04 20:57:07.0902|WARN|Microsoft.AspNetCore.Identity.UserManager|User e9675f12-048f-45d0-9260-8e8438ff54a7 password validation failed: PasswordTooShort.
+2020-01-04 20:57:07.0902|WARN|Microsoft.AspNetCore.Identity.UserManager|User 1f0228e6-e389-4687-89d7-81f6ee582ccc password validation failed: PasswordTooShort.
+2020-01-04 20:57:07.0902|WARN|Microsoft.AspNetCore.Identity.UserManager|User c0d4a1ac-0be0-4a67-9611-238fb45fb706 password validation failed: PasswordTooShort.
+2020-01-04 20:57:07.0902|WARN|Microsoft.AspNetCore.Identity.UserManager|User a1f7e970-7638-4b3c-a311-0a3738b17b7a password validation failed: PasswordTooShort.
+2020-01-04 20:57:07.1050|WARN|Microsoft.AspNetCore.Identity.UserManager|User 03dd5e9b-7eb3-4011-80c3-27d349bbf1e3 password validation failed: PasswordTooShort.
+2020-01-04 20:57:07.1050|WARN|Microsoft.AspNetCore.Identity.UserManager|User dfd3166c-6f57-447c-a2d3-d6646179594f password validation failed: PasswordTooShort.
+2020-01-04 20:57:07.1050|WARN|Microsoft.AspNetCore.Identity.UserManager|User fb934534-d5d9-4757-8b3d-62de561bdf57 password validation failed: PasswordTooShort.
+2020-01-04 20:57:07.1050|WARN|Microsoft.AspNetCore.Identity.UserManager|User aba096d3-fdf4-48ef-8605-6d351d9621e6 password validation failed: PasswordTooShort.
+2020-01-04 20:57:07.1183|WARN|Microsoft.AspNetCore.Identity.UserManager|User 3f41509e-1451-4120-bac1-24712218b5ed password validation failed: PasswordTooShort.
+2020-01-04 20:57:07.1183|WARN|Microsoft.AspNetCore.Identity.UserManager|User 9c8b4e31-b7a2-48ba-a41f-34eb6ebc27aa password validation failed: PasswordTooShort.
+2020-01-04 20:57:07.1183|WARN|Microsoft.AspNetCore.Identity.UserManager|User 4a384fdd-bb1e-4159-b822-6661c00450d4 password validation failed: PasswordTooShort.
+2020-01-04 20:57:07.1183|WARN|Microsoft.AspNetCore.Identity.UserManager|User 721f6671-b7eb-4b96-81ea-5f312f7724ae password validation failed: PasswordTooShort.
+2020-01-04 20:57:07.1183|WARN|Microsoft.AspNetCore.Identity.UserManager|User 212847fa-6506-4617-8d8d-2952a24f6bf7 password validation failed: PasswordTooShort.
+2020-01-04 20:57:07.5227|ERROR|CodeSec.Program|An error occured while seeding the database.
+2020-01-04 20:57:07.5268|INFO|CodeSec.Program|Seeded the database.
+2020-01-04 20:58:57.7767|INFO|CodeSec.Startup|Added TodoRepository to services
+2020-01-04 20:58:59.7847|WARN|Microsoft.AspNetCore.Identity.UserManager|User 2c5b1c55-3c2b-456e-b562-26d1d8f43cd3 password validation failed: PasswordTooShort.
+2020-01-04 20:58:59.8016|WARN|Microsoft.AspNetCore.Identity.UserManager|User d9d0ecdc-9e1c-490e-9ab0-5bb8679f9ff3 password validation failed: PasswordTooShort.
+2020-01-04 20:58:59.8104|WARN|Microsoft.AspNetCore.Identity.UserManager|User e2a774aa-5d8d-4dc0-9f50-61762ccd8b45 password validation failed: PasswordTooShort.
+2020-01-04 20:58:59.8104|WARN|Microsoft.AspNetCore.Identity.UserManager|User 19dd0167-1c67-4f14-b79e-ae6ce9173fee password validation failed: PasswordTooShort.
+2020-01-04 20:58:59.8104|WARN|Microsoft.AspNetCore.Identity.UserManager|User 29def45f-82b4-43f0-a1ad-67dd4cf53c50 password validation failed: PasswordTooShort.
+2020-01-04 20:58:59.8225|WARN|Microsoft.AspNetCore.Identity.UserManager|User d612ba57-1a26-43de-98fb-5feba88cb18d password validation failed: PasswordTooShort.
+2020-01-04 20:58:59.8225|WARN|Microsoft.AspNetCore.Identity.UserManager|User 09f3a9f2-9679-42a0-aad6-170a5f25894b password validation failed: PasswordTooShort.
+2020-01-04 20:58:59.8225|WARN|Microsoft.AspNetCore.Identity.UserManager|User a2bb00c9-3968-47ff-bde1-2438ae90b911 password validation failed: PasswordTooShort.
+2020-01-04 20:58:59.8225|WARN|Microsoft.AspNetCore.Identity.UserManager|User 525aa2bc-11fc-4830-8257-f6aa4b17d0c4 password validation failed: PasswordTooShort.
+2020-01-04 20:58:59.8370|WARN|Microsoft.AspNetCore.Identity.UserManager|User 58c12c3f-19f8-4e8e-8fbe-b20a97815b72 password validation failed: PasswordTooShort.
+2020-01-04 20:58:59.8370|WARN|Microsoft.AspNetCore.Identity.UserManager|User c6db231d-e174-4f4c-914c-9f2e50bcfcd3 password validation failed: PasswordTooShort.
+2020-01-04 20:58:59.8370|WARN|Microsoft.AspNetCore.Identity.UserManager|User 053a2b39-b619-40bc-b2e7-60e22da2e33c password validation failed: PasswordTooShort.
+2020-01-04 20:58:59.8370|WARN|Microsoft.AspNetCore.Identity.UserManager|User fa349acc-2f73-4016-9a9a-aedac3be0159 password validation failed: PasswordTooShort.
+2020-01-04 20:58:59.8547|WARN|Microsoft.AspNetCore.Identity.UserManager|User 78e55fdd-2f0a-4d69-b12b-669cb9402b53 password validation failed: PasswordTooShort.
+2020-01-04 20:58:59.8547|WARN|Microsoft.AspNetCore.Identity.UserManager|User 3d35b175-980e-4be6-96b4-958ec72a196f password validation failed: PasswordTooShort.
+2020-01-04 20:58:59.8547|WARN|Microsoft.AspNetCore.Identity.UserManager|User e1a947f4-a394-4f14-8e73-197b956a58b8 password validation failed: PasswordTooShort.
+2020-01-04 20:58:59.8547|WARN|Microsoft.AspNetCore.Identity.UserManager|User f3fa7d0c-2149-4c9e-be4d-5be8cbea9be6 password validation failed: PasswordTooShort.
+2020-01-04 20:58:59.8704|WARN|Microsoft.AspNetCore.Identity.UserManager|User 2bd8821e-7dd4-490d-ae84-d73a31b9ea78 password validation failed: PasswordTooShort.
+2020-01-04 20:58:59.8704|WARN|Microsoft.AspNetCore.Identity.UserManager|User 8e9b97a0-505c-42a2-acc7-bef7351081d0 password validation failed: PasswordTooShort.
+2020-01-04 20:58:59.8704|WARN|Microsoft.AspNetCore.Identity.UserManager|User 0e52a33c-dfd5-4664-9721-600f72e157c8 password validation failed: PasswordTooShort.
+2020-01-04 20:58:59.8704|WARN|Microsoft.AspNetCore.Identity.UserManager|User bde6e621-f04a-4e64-b41d-3c7c80265cd6 password validation failed: PasswordTooShort.
+2020-01-04 20:59:00.1948|ERROR|CodeSec.Program|An error occured while seeding the database.
+2020-01-04 20:59:00.1997|INFO|CodeSec.Program|Seeded the database.

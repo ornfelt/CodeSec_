@@ -1,0 +1,29 @@
+﻿@{
+  Layout = "_LoggedInLayout";
+  @model SickNote
+}
+  <body>
+    <nav>
+      <ul>
+        <li><a class="reports" asp-controller="RegularEmployee" asp-action="StartRegularEmployee">Start(Anmälningar)</a></li>
+        <li><a class="reportAdd" asp-controller="RegularEmployee" asp-action="ReportSickNote">Ange sjukfrånvaro</a></li>
+        <li class="right"><a class="logout" asp-controller="Home" asp-action="Index">Logga ut</a></li>
+      </ul>
+    </nav><!-- End Nav -->
+    <div id="content">
+      <h2>Tack för din anmälan</h2>
+      <p class="info">Du är inloggad som anställd</p>
+
+      <p>
+        Anmälan har nu skickats in till Arbetsplatsen. <br />
+        Vill du komplettera din anmälan kontakta oss via mail eller telefon. <br />
+        Ange då nummer: @Model.RefNumber
+      </p>
+
+      <p><a class="button" asp-controller="RegularEmployee" asp-action="StartRegularEmployee">Avsluta rapporteringen</a></p>
+
+      <footer>
+        &copy; CodeSec All rights reserved.
+      </footer>
+    </div><!-- End Content -->
+  </body>

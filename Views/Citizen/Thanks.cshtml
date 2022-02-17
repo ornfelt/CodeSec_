@@ -1,0 +1,23 @@
+﻿@model SickNote
+
+	<body>
+        <div id="content">
+            <section id="mainColumn">
+                <h2>Tack för din Anmälan</h2>
+                <p class="info">I CodeSec är inga sjukdomar för små för att anmälas</p>
+
+                <p>
+                    Anmälan har nu skickats in till Arbetsplatsen. <br />
+                    Vill du komplettera din anmälan kontakta oss via mail eller telefon. <br />
+                    Ange då nummer: @Model.RefNumber
+                </p>
+                <p><a class="button" asp-controller="Home" asp-action="Index">Avsluta</a></p>
+            </section><!-- End Left -->
+
+            @await Component.InvokeAsync("PictureColumn")
+
+            <footer>
+                &copy; CodeSec All rights reserved.
+            </footer>
+        </div><!-- End Content -->
+	</body>

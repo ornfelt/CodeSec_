@@ -1,0 +1,37 @@
+﻿@{
+  Layout = "_LoggedInLayout";
+    @model SickNote
+}
+
+  <body>
+    <nav>
+      <ul>
+        <li><a class="reports" asp-controller="RegularEmployee" asp-action="StartRegularEmployee">Start(Anmälningar)</a></li>
+        <li><a class="reportAdd" asp-controller="RegularEmployee" asp-action="ReportSickNote">Ange sjukfrånvaro</a></li>
+        <li class="right"><a class="logout" asp-controller="Home" asp-action="Index">Logga ut</a></li>
+      </ul>
+    </nav><!-- End Nav -->
+    <div id="content">
+      <h2>Din sjukanmälan</h2>
+      <p class="info">Du är inloggad som änställd</p>
+
+      <p class="label">
+        Vänligen läs igenom din sjukanmälan och se att allt är okej.<br />
+        Om något är fel, gå tillbaka och ändra. Annars välj Bekräfta.
+      </p>
+      <p><span class="label">Läkarintyg? (Sant/falskt)</span><br />@Model.Certificate.ToString()</p>
+      <p><span class="label">Vilken typ av sjukdom?</span><br />@Model.TypeOfSickness</p>
+      <p><span class="label">När blev du sjuk?</span><br />@Model.DateOfSickness.ToString("yyyy/MM/dd")</p>
+      <p><span class="label">Ditt namn (för- och efternamn):</span><br />@Model.EmployeeName</p>
+      <p><span class="label">Din telefon:</span><br />@Model.EmployeePhone</p>
+      <p><span class="label">Mer information:</span><br />@Model.Other</p>
+      <p>
+        <a class="button" asp-controller="RegularEmployee" asp-action="ReportSickNote" id="link">Tillbaka</a>
+        <a class="button" asp-controller="RegularEmployee" asp-action="Thanks">Bekräfta</a>
+      </p>
+
+      <footer>
+        &copy; CodeSec All rights reserved.
+      </footer>
+    </div><!-- End Content -->
+  </body>

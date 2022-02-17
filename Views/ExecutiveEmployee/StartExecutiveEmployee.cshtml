@@ -1,0 +1,55 @@
+﻿@{
+    Layout = "_ExecutiveEmployeeLayout";
+}
+<body>
+    <div id="content">
+        <h2>Anmälningar</h2>
+        <p class="info">Du är inloggad som personalansvarig</p>
+
+        <form asp-controller="ExecutiveEmployee" asp-action="SortExecutiveEmployee" method="post">
+            <table id="AdminForm">
+                <tr>
+                    <td class="label">Välj status:</td>
+                    <td>&nbsp;</td>
+                    <td class="label">Anställningsnummer:</td>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                  <td>
+                    @await Component.InvokeAsync("DropDown")
+                  </td>
+                    <td><input class="button" type="submit" value="Hämta lista" name="submit"/></td>
+                    <td><input name="empnumber" /></td>
+                    <td><input class="button" type="submit" value="Sök" name="submit"/></td>
+                </tr>
+            </table>
+            </form>
+            <!--Nedan ser man en lista på Anmälningar-->
+            <table>
+                <tr>
+                    <th>Anmälan gjord</th>
+                    <th>Anmälningsrummer</th>
+                    <th>Typ av sjukdom</th>
+                    <th>Status</th>
+                    <th>Avdelning</th>
+                    <th>Anställds namn</th>
+                </tr>
+
+                @foreach (SickNoteConnect SickNoteConnect in ViewBag.ListOfSickNotes)
+                {
+                    <tr>
+                        <td>@SickNoteConnect.DateOfSickness.ToString("yyyy/MM/dd")</td>
+                        <td><a asp-controller="ExecutiveEmployee" asp-action="SickExecutiveEmployee" asp-route-id="@SickNoteConnect.SickNoteId">@SickNoteConnect.RefNumber</a></td>
+                        <td>@SickNoteConnect.TypeOfSickness</td>
+                        <td>@SickNoteConnect.StatusName</td>
+                        <td>@SickNoteConnect.DepartmentName</td>
+                        <td>@SickNoteConnect.EmployeeName</td>
+                    </tr>
+                }
+            </table>
+
+            <footer>
+                &copy; CodeSec All rights reserved.
+            </footer>
+    </div><!-- End Content -->
+</body>

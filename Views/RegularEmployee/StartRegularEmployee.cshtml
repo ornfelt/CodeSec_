@@ -1,0 +1,63 @@
+﻿@{
+    Layout = "_LoggedInLayout";
+}
+  <body>
+    <nav>
+      <ul>
+        <li><a class="reports" asp-controller="RegularEmployee" asp-action="StartRegularEmployee">Start(Anmälningar)</a></li>
+        <li><a class="reportAdd" asp-controller="RegularEmployee" asp-action="ReportSickNote">Ange sjukfrånvaro</a></li>
+        <li class="right"><a class="logout" asp-controller="Home" asp-action="Index">Logga ut</a></li>
+      </ul>
+    </nav><!-- End Nav -->
+
+    <div id="content">
+      <h2>Anmälningar</h2>
+      <p class="info">Du är inloggad som anställd</p>
+      <form asp-controller="RegularEmployee" asp-action="SortRegularEmployee" method="post">
+        <table id="AdminForm">
+          <tr>
+            <td class="label">Välj status:</td>
+            <td>&nbsp;</td>
+            <td class="label">Anmälningsnummer:</td>
+            <td>&nbsp;</td>
+          </tr>
+          <tr>
+            <td>
+              @await Component.InvokeAsync("DropDown")
+            </td>
+            <td><input class="button" type="submit" value="Hämta lista" name="submit" /></td>
+            <td><input name="casenumber" /></td>
+            <td><input class="button" type="submit" value="Sök" name="submit" /></td>
+          </tr>
+        </table>
+      </form>
+      <!--Nedan ser man en lista på Anmälningar-->
+      <table>
+        <tr>
+          <th>Anmälan gjord</th>
+          <th>Anmälningsrummer</th>
+          <th>Typ av sjukdom</th>
+          <th>Status</th>
+          <th>Avdelning</th>
+          <th>Anställds namn</th>
+        </tr>
+
+        @foreach (SickNoteConnect SickNoteConnect in ViewBag.ListOfSickNotes)
+        {
+          <tr>
+            <td>@SickNoteConnect.DateOfSickness.ToString("yyyy/MM/dd")</td>
+            <td><a asp-controller="RegularEmployee" asp-action="SickRegularEmployee" asp-route-id="@SickNoteConnect.SickNoteId">@SickNoteConnect.RefNumber</a></td>
+            <td>@SickNoteConnect.TypeOfSickness</td>
+            <td>@SickNoteConnect.StatusName</td>
+            <td>@SickNoteConnect.DepartmentName</td>
+            <td>@SickNoteConnect.EmployeeName</td>
+          </tr>
+        }
+
+      </table>
+
+      <footer>
+        &copy; CodeSec All rights reserved.
+      </footer>
+    </div><!-- End Content -->
+  </body>
