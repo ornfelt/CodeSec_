@@ -22,12 +22,14 @@ namespace CodeSec.Models
             if (SickNote.SickNoteID == 0)
             {
                 var currentVal = context.Sequences.Where(cv => cv.Id == 1).First(); //get CurrentValue for id = 1
-        var empId = context.Employees.Where(em => em.EmployeeName == SickNote.EmployeeName).FirstOrDefault().EmployeeId;
-        var depId = context.Employees.Where(em => em.EmployeeName == SickNote.EmployeeName).FirstOrDefault().DepartmentId;
+                Console.WriteLine("SickNote: " + SickNote.ToString());
+                var empId = context.Employees.Where(em => em.EmployeeName == SickNote.EmployeeName).FirstOrDefault().EmployeeId;
+                var depId = context.Employees.Where(em => em.EmployeeName == SickNote.EmployeeName).FirstOrDefault().DepartmentId;
+
                 SickNote.RefNumber = "2019-45-" + currentVal.CurrentValue.ToString();
                 SickNote.StatusId = "S_A";
-        SickNote.EmployeeId = empId;
-        SickNote.DepartmentId = depId;
+                SickNote.EmployeeId = empId;
+                SickNote.DepartmentId = depId;
                 context.SickNotes.Add(SickNote);
                 context.SaveChanges();
                 UpdateSequenceValue(currentVal); //calls the method that adds 1 to currentvalue

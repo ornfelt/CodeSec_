@@ -1,0 +1,133 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CodeSec
+build_property.RootNamespace = CodeSec
+build_property.ProjectDir = C:\Users\Svea User\Downloads\CodeSec_Final\
+build_property.RazorLangVersion = 2.1
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\Svea User\Downloads\CodeSec_Final
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Svea User/Downloads/CodeSec_Final/Views/Admin/AdminLogs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5Mb2dzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Svea User/Downloads/CodeSec_Final/Views/Admin/SickAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2lja0FkbWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Svea User/Downloads/CodeSec_Final/Views/Admin/StartAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU3RhcnRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Svea User/Downloads/CodeSec_Final/Views/Citizen/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aXplblxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Svea User/Downloads/CodeSec_Final/Views/Citizen/Faq.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aXplblxGYXEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Svea User/Downloads/CodeSec_Final/Views/Citizen/Services.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aXplblxTZXJ2aWNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Svea User/Downloads/CodeSec_Final/Views/Citizen/Thanks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aXplblxUaGFua3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Svea User/Downloads/CodeSec_Final/Views/Citizen/Validate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aXplblxWYWxpZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Svea User/Downloads/CodeSec_Final/Views/ExecutiveEmployee/ReportSickNote.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlY3V0aXZlRW1wbG95ZWVcUmVwb3J0U2lja05vdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Svea User/Downloads/CodeSec_Final/Views/ExecutiveEmployee/SickExecutiveEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlY3V0aXZlRW1wbG95ZWVcU2lja0V4ZWN1dGl2ZUVtcGxveWVlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Svea User/Downloads/CodeSec_Final/Views/ExecutiveEmployee/StartExecutiveEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlY3V0aXZlRW1wbG95ZWVcU3RhcnRFeGVjdXRpdmVFbXBsb3llZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Svea User/Downloads/CodeSec_Final/Views/ExecutiveEmployee/Thanks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlY3V0aXZlRW1wbG95ZWVcVGhhbmtzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Svea User/Downloads/CodeSec_Final/Views/ExecutiveEmployee/Validate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlY3V0aXZlRW1wbG95ZWVcVmFsaWRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Svea User/Downloads/CodeSec_Final/Views/Home/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2Nlc3NEZW5pZWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Svea User/Downloads/CodeSec_Final/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Svea User/Downloads/CodeSec_Final/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Svea User/Downloads/CodeSec_Final/Views/RegularEmployee/ReportSickNote.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVndWxhckVtcGxveWVlXFJlcG9ydFNpY2tOb3RlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Svea User/Downloads/CodeSec_Final/Views/RegularEmployee/SickRegularEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVndWxhckVtcGxveWVlXFNpY2tSZWd1bGFyRW1wbG95ZWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Svea User/Downloads/CodeSec_Final/Views/RegularEmployee/StartRegularEmployee.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVndWxhckVtcGxveWVlXFN0YXJ0UmVndWxhckVtcGxveWVlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Svea User/Downloads/CodeSec_Final/Views/RegularEmployee/Thanks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVndWxhckVtcGxveWVlXFRoYW5rcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Svea User/Downloads/CodeSec_Final/Views/RegularEmployee/Validate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVndWxhckVtcGxveWVlXFZhbGlkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Svea User/Downloads/CodeSec_Final/Views/Shared/Components/DropDown/DropDown.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRHJvcERvd25cRHJvcERvd24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Svea User/Downloads/CodeSec_Final/Views/Shared/Components/PictureColumn/PictureColumn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUGljdHVyZUNvbHVtblxQaWN0dXJlQ29sdW1uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Svea User/Downloads/CodeSec_Final/Views/Shared/Components/SickNote/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2lja05vdGVcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Svea User/Downloads/CodeSec_Final/Views/Shared/_BasicLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CYXNpY0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Svea User/Downloads/CodeSec_Final/Views/Shared/_ExecutiveEmployeeLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9FeGVjdXRpdmVFbXBsb3llZUxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Svea User/Downloads/CodeSec_Final/Views/Shared/_LoggedInLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dnZWRJbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Svea User/Downloads/CodeSec_Final/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Svea User/Downloads/CodeSec_Final/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

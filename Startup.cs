@@ -52,7 +52,9 @@ namespace CodeSec
                 options.AccessDeniedPath = "/Home/AccessDenied";
             });
 
-            services.AddMvc();
+            services.AddControllersWithViews().AddRazorRuntimeCompilation();
+            //services.AddMvc();
+            services.AddMvc(option => option.EnableEndpointRouting = false);
             services.AddSession(); //Dotnet core's Session is used for checklist: 8
 
       //services.AddSingleton<ITodoRepository, TodoRepository>();
